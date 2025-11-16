@@ -65,42 +65,29 @@
       gender: m
     - prati: अवधि*
       gender: m
-  - head: नाग
-    verify: false
-    gender: m
+  - head: नागानाम्_स्वामिः
+    verify: true
     syns:
-    - prati: नाग
+    - prati: शेष
       gender: m
-    - prati: नागराज
+    - prati: अनन्तो
       gender: m
-  - head: राज
-    verify: false
-    gender: m
+  - head: सर्पाणाम्_स्वामिः
+    verify: true
     syns:
     - prati: वासुकि
       gender: m
-    - prati: सपेराज
-      gender: m
-  - head: अवट
-    verify: false
-    gender: m
-    syns:
-    - prati: अवट
-      gender: m
-    - prati: बधिर
+    - prati: सर्पराज
       gender: m
 नागा बहुफणाः सर्पास्तेषां भोगवती पुरी। सर्पो द्विरसनो व्यालो दन्दशूकः सरीसृपः ॥:
   entries:
-  - head: नाग
-    verify: false
-    gender: m
+  - head: बहुफणसर्प
+    verify: true
     syns:
     - prati: नाग
       gender: m
-    - prati: बहुफण
-      gender: m
-  - head: सर्प
-    verify: false
+  - head: सर्पः
+    verify: true
     syns:
     - prati: सर्प
       gender: m
@@ -108,81 +95,73 @@
       gender: m
     - prati: व्याल
       gender: m
-    - prati: दंष्ट्राशुक
+    - prati: दन्दशूक
       gender: m
     - prati: सरीसृप
       gender: m
 उरगो भुजगो जिह्मो भुजङ्गोऽहिर्भुजङ्गमः। फुल्लरीको लेलिहानः कुण्डल्याशीविषः फणी ॥:
   entries:
-  - head: सर्प
-    verify: false
-    gender: m
+  - head: सर्पः
+    verify: true
     syns:
     - prati: उरग
       gender: m
     - prati: भुजग
       gender: m
+    - prati: जिह्म*
+      gender: m
     - prati: भुजङ्ग
       gender: m
     - prati: अहि
       gender: m
-    - prati: जिह्म
+    - prati: भुजङ्गम
       gender: m
-    - prati: जिह्मक
-      gender: m
-    - prati: फणी
-      gender: m
-    - prati: इण्डली
-      gender: m
-    - prati: षीविष
-      gender: m
-    - prati: बैजङ्गम
+    - prati: फुल्लरीक*
       gender: m
     - prati: लेलिहान
       gender: m
-    - prati: फुल्लरेक
+    - prati: कुण्डली
       gender: m
-दीर्घवृष्ठो विषधरः पन्नगो दृक्श्रवा हरिः। बिलौका गूढपाच्चक्री नाकुसद्मानिलाशनः॥:
+    - prati: आशीविष
+      gender: m
+    - prati: फणी
+      gender: m
+दीर्घपृष्ठो विषधरः पन्नगो दृक्श्रवा हरिः। बिलौका गूढपाच्चक्री नाकुसद्मानिलाशनः॥:
   entries:
-  - head: सर्प
-    verify: false
+  - head: सर्पः
+    verify: true
     gender: m
     syns:
-    - prati: दीर्घवृष्ठ
+    - prati: दीर्घपृष्ठ
       gender: m
     - prati: विषधर
       gender: m
     - prati: पन्नग
       gender: m
-  - head: हरि
-    verify: false
-    gender: m
-    syns:
-    - prati: दृक्श्रव
+    - prati: दृक्श्रवस्*
       gender: m
     - prati: हरि
       gender: m
-  - head: बिल
-    verify: false
-    gender: n
-    syns:
-    - prati: बिलौक
+    - prati: बिलौकस्*
       gender: m
-  - head: अनिल
-    verify: false
-    gender: m
-    syns:
+    - prati: गूढपाद्
+      gender: m
+    - prati: चक्रिन्
+      gender: m
+    - prati: नाकुसद्मन्*
+      gender: m
     - prati: अनिलाशन
       gender: m
 दर्वीकरा मण्डलिनो राजिमन्तश्च पन्नगाः । रथाङ्गलाङ्गलच्छत्रस्वस्तिकाङ्कुशलाञ्छनाः ॥:
   entries:
-  - head: पन्नग
-    verify: false
-    gender: m
+  - head: सर्पः
+    verify: true
     syns:
-    - prati: मण्डलिन्
+    - prati: दर्वीकर
       gender: m
-    - prati: राजिमन्त
+    - prati: मण्डलिन्*
+      gender: m
+    - prati: राजिमत्*
       gender: m
     - prati: पन्नग
       gender: m
@@ -208,13 +187,13 @@
       gender: f
 फणिनः शीघ्रगतयः सर्पा दर्वीकराभिधाः। दीर्घा मन्दा मण्डलिनो मण्डलैर्विविधैर्युताः ॥:
   entries:
-  - head: सर्प
+  - head: सर्पः
     verify: false
     gender: m
     syns:
     - prati: फणिन्
       gender: m
-    - prati: सर्प
+    - prati: सर्पः
       gender: m
     - prati: दर्वीकर
       gender: m
@@ -223,7 +202,7 @@
     - दीर्घ
     - मन्द
     - मण्डलिन्
-राजीमन्तो राजीयुता राजीला राजिलाश्च ते। वेकरञ्जाः सङ्करजात्ल्यनां व्यन्तरास्तथा ॥:
+राजिमन्तो राजियुता राजीला राजिलाश्च ते । वेकरञ्जाः सङ्करजास्त्रयाणां व्यन्तरास्तथा ॥:
   entries:
   - head: राजीमन्त
     verify: false
@@ -247,7 +226,7 @@
       gender: m
     - prati: व्यन्तर
       gender: m
-षड्विंशतिमण्डलिनस्तथा दर्वीकराभिधाः। त्रयोदश च राजीला वैकरञ्जाभिधा अलयः॥:
+षड्विंशतिर्मण्डलिनस्तथा दर्वीकराभिधाः। त्रयोदश च राजीला वैकरञ्जाभिधास्त्रयः ॥:
   entries:
   - head: मण्डलिन्
     verify: false
@@ -273,15 +252,15 @@
     syns:
     - prati: वैकरञ्ज
       gender: m
-निर्विषा द्वादशैते वा अशीतिः सर्पजातयः। दवीकरा महासर्पे फुल्लः पुष्पाभिकीर्णकः॥:
+निर्विषा द्वादशैतेवमशीतिः सर्पजातयः। दवीकरा महासर्पः फुल्लः पुष्पाभिकीर्णकः॥:
   entries:
-  - head: सर्प
+  - head: सर्पः
     verify: false
     gender: m
     syns:
     - prati: निर्विष
       gender: m
-    - prati: सर्प
+    - prati: सर्पः
       gender: m
     - prati: महासर्प
       gender: m
@@ -299,7 +278,7 @@
       gender: m
     - prati: पुष्प
       gender: n
-गम्भीरनादो लोहिताक्षः कृष्णसर्पैः फुलस्थकः। शङ्खपालो महापद्मः काकोदर इतीदशाः ॥:
+कुम्भीनसो लोहिताहिः कृष्णसर्पः कुलस्थकः। शङ्खपालो महापद्मः काकोदर इतीदृशाः ॥:
   entries:
   - head: नाद
     verify: false
@@ -313,7 +292,7 @@
     syns:
     - prati: लोहिताक्ष
       gender: m
-  - head: सर्प
+  - head: सर्पः
     verify: false
     gender: m
     syns:
@@ -337,7 +316,7 @@
     syns:
     - prati: काकोदर
       gender: n
-भाषीविषाश्च सर्वेऽथ कृष्णसर्पो बलाहकः । अथ मण्डलिनस्तन्तुर्गोनसो बद्धगोनसः ॥:
+आशीविषाश्च सर्वेऽथ कृष्णसर्पो वलाहकः । अथ मण्डलिनस्तन्तुर्गोनसो वृद्धगोनसः ॥:
   entries:
   - head: भाषिन्
     verify: false
@@ -345,7 +324,7 @@
     syns:
     - prati: भाषीविष
       gender: m
-  - head: सर्प
+  - head: सर्पः
     verify: false
     gender: m
     syns:
@@ -363,7 +342,7 @@
       gender: m
     - prati: बद्धगोनस
       gender: m
-किश्चकः पीनसः पिङ्गो देवभिन्न इतीदशाः। गोनासस्तु तिलिक्सः स्याद्‌ गोनासो घोणसोऽपि च ॥:
+किंशुकः पीनसः पिङ्गो देवभिन्न इतीदृशाः। गोनासस्तु तिलित्सः स्याद्‌ गोनासो घोणसोऽपि च ॥:
   entries:
   - head: नासा
     verify: false
@@ -383,7 +362,7 @@
       gender: m
     - prati: पीनस
       gender: m
-राजिलाः स्युः पुण्डरीकश्चित्रको लोहिताक्षकः। दिव्यलकः सर्पराजः किकीसारः इतीदृशाः ॥:
+राजिलाः स्युः पुण्डरीकश्चित्रको लोहिताक्षकः। दिव्येलकः सर्पराजः किकीसाद इतीदृशाः ॥:
   entries:
   - head: राजिल
     verify: false
@@ -427,7 +406,7 @@
     syns:
     - prati: किकीसार
       gender: m
-अथ पुष्करसादः स्यात् सपराजरश्च सपेभुजः । त्रैकरञ्चाः पोटगलस्तथा पुष्पाभिकीर्णकः ॥:
+अथ पुष्करसादः स्यात् सपराजरश्च सर्पभुक् । वैकरञ्जाः पोटगलस्तथा पुष्पाभिकीर्णकः ॥:
   entries:
   - head: पुष्कर
     verify: false
@@ -459,7 +438,7 @@
     syns:
     - prati: पुष्पाभिकीर्णक
       gender: n
-व्यः सलर्कोऽप्यथो सपी निर्विषा दिव्यकालिनी | चैत्ररागोऽप्यजगरः शुकपोत्रो वलाहकः ॥:
+दिव्योऽलर्कोऽप्यथो सर्पा निर्विषा दिव्यकालिनी | पैङ्गराजोऽप्यजगरः शुकपोत्रो वलाहकः ॥:
   entries:
   - head: व्य
     verify: false
@@ -491,7 +470,7 @@
       gender: m
     - prati: वलाहक
       gender: m
-वर्षाभीः शकलज्योतिः कोलकः पादबाह्यकः। पुष्पको महिपालश्च गन्धाहिक इतीदृशाः ॥:
+वर्षाभीः शकलज्योतिः कोलकः पादवाहिकः। पुष्पकोऽहिपताकश्च गन्धाहिक इतीदृशाः ॥:
   entries:
   - head: कोलक
     verify: false
@@ -511,7 +490,7 @@
       gender: m
     - prati: गन्धाहिक
       gender: m
-अलगर्द्धो जलव्याल बाहसोऽजगरः शयुः। मालुधानो मातुलादिः पुण्डरीकस्तु पिण्डजः॥:
+अलगर्द्धो जलव्यालो बाहसोऽजगरः शयुः। मालुधानो मातुलादिः पुण्डरीकस्तु ़ डुण्डभः॥:
   entries:
   - head: जलव्याल
     verify: false
@@ -541,7 +520,7 @@
       gender: m
     - prati: पुण्डरीक
       gender: m
-राजलिः क्षीरकश्चाथ नानीपातः स्वजः समौ। अरीरिणः खट्वा द्विमुखी नियुक्तो युक्तकञ्चुकः॥:
+राजिलः क्षीरकश्चाथ नानीपातः स्वजः समौ। अहीरिणः स्त्री द्विमुखी निर्मुक्तो मुक्तकञ्चुकः॥:
   entries:
   - head: राजलि
     verify: false
@@ -577,7 +556,7 @@
       gender: m
     - prati: युक्तकञ्चुक
       gender: m
-सपौच्चरस्तु निमौकः कल्चुको निल्वयन्यपि । अहिनिल्वयनी चाथ स्फटा भोगः फणा न च ॥:
+सर्पाञ्चरस्तु निर्मोकः कञ्चुको निल्वयन्यपि । अहिनिल्वयनी चाथ स्फटा भोगः फणा न षण् ॥:
   entries:
   - head: निमुक
     verify: false
@@ -599,37 +578,38 @@
     syns:
     - prati: निल्वय
       gender: m
-  - head: भोग
-    verify: false
-    gender: m
+  - head: फणः
+    verify: true
     syns:
     - prati: भोग
       gender: m
-    - prati: फटा
-      gender: f
+    - prati: स्फटा
+      gender: m,f
     - prati: फण
-      gender: m
-गरलं तु विषं चेलो गरस्तु कृतकं विषम्। च्वेलास्तु कालद्रुटाद्या मूलपुष्पफलात्मकाः ॥:
+      gender: m,f
+गरलं तु विषं क्ष्वेलो गरस्तु कृतकं विषम् । क्ष्वेलास्तु कालकूटाद्या मूलपुष्पफलात्मकाः ॥:
   entries:
   - head: विष
-    verify: false
-    gender: n
+    verify: true
     syns:
     - prati: गरल
       gender: n
-    - prati: गरस्
-      gender: n
     - prati: विष
       gender: n
-  - head: च्वेल
-    verify: false
+    - prati: क्ष्वेल*
+      gender: m
+    - prati: गर*
+      gender: m
+    - prati: कृतक
+      gender: n
+  - head: कालकूटाद्या
+    verify: n
     gender: m
     syns:
     - prati: चेल
       gender: m
     - prati: च्वेल
       gender: m
-    qual: कालद्रुट and similar from roots/flowers/fruits
 कालकूटः कटोऽथ स्याद् गौराद्रौ ब्रह्मवालुकम् । ब्रह्मघोषश्च घोषश्च पुण्डरीकं तु पालुकम् ॥:
   entries:
   - head: कालकूट
@@ -1319,7 +1299,7 @@
       gender: m
     - prati: लाभेक
       gender: m
-उदण्डपालन दलदर एकराजीवकोत्पलाः ॥:
+उदण्डपालन दलदर एकराजीवकोत्पलाः । कुलीरः कर्कटः पृष्ठचक्षुः पार्श्वोदरप्रियः ॥:
   entries:
   - head: पाल
     verify: false
@@ -1339,54 +1319,51 @@
       gender: n
     - prati: उत्पल
       gender: n
-कुलीरः ककेटः परष्ठच्छदः पार्श्वादरभ्रियः ॥ १॥:
-  entries:
-  - head: ककेट
-    verify: false
-    gender: m
+  - head: कुलीर
+    verify: true
     syns:
     - prati: कुलीर
       gender: m
-    - prati: परष्ठच्छद
+    - prati: कर्कट
       gender: m
-    - prati: पार्श्वादरभ्रिय
+    - prati: पृष्ठचक्षुस्*
       gender: m
-    qual: Synonyms for crab/water creature
-सखरीखपाण्यायः १ ] बिल्वकोऽण्डप्रहरणः षोडशाङ्गद्विधागतिः। भेके शालुः प्लवव्यङ्गशाद्राण्डककेण्डुकाः ॥:
+    - prati: पार्श्वोदरप्रिय*
+      gender: m
+बिल्वकोऽण्डप्रहरणः षोडशाघ्रिर्द्विधागतिः। भेके शालुः प्लवव्यङ्गशालूराण्डककेण्डुकाः ॥:
   entries:
-  - head: बिल्व
-    verify: false
-    gender: m
+  - head: कुलीर
+    verify: true
     syns:
-    - prati: बिल्वक
+    - prati: बिल्वक*
       gender: m
-    - prati: अण्ड
-      gender: n
+    - prati: अण्डप्रहरण*
+      gender: m
+    - prati: षोडशाघ्रि*
+      gender: m
+    - prati: द्विधागति*
+      gender: m
   - head: भेक
-    verify: false
-    gender: m
+    verify: true
     syns:
-    - prati: शालु
+    - prati: भेक
+      gender: m
+    - prati: शालु*
       gender: m
     - prati: प्लव
       gender: m
-    - prati: व्यङ्ग
+    - prati: व्यङ्ग*
       gender: m
-    - prati: शाद्राण्डक
+    - prati: शालूर
       gender: m
-    - prati: केण्डुक
+    - prati: अण्डुक*
       gender: m
-  - head: प्रहरण
-    verify: false
-    gender: n
-    syns:
-    - prati: अण्ड
-      gender: n
+    - prati: केण्डुक*
+      gender: m
 मण्डूकश्चेह गृहजो म्लानः कोणपिशाचकः । पीतेऽस्मिन् कूलमण्डूको वारिपिण्डोऽश्ममध्यजः ॥:
   entries:
-  - head: मण्डूक
+  - head: भेक
     verify: false
-    gender: m
     syns:
     - prati: मण्डूक
       gender: m
@@ -1440,7 +1417,7 @@
       gender: m
     - prati: पिशाच
       gender: m
-कूर्मेः कच्छप ओदहारः पञ्चगूढाञ्चतुर्गतिः। गुहाशयस्तूर्पप्रष्ठः कश्यपो जीवथोऽथ वा ॥:
+कूर्मः कच्छप ओहारः पञ्चगूढाश्चतुर्गतिः। गुहाशयस्तूर्पप्रष्ठः कश्यपो जीवथोऽथ वा ॥:
   entries:
   - head: कच्छप
     verify: false

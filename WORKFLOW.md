@@ -139,33 +139,43 @@ Input/Vaijayanti_Kosha/1_SvargaKhanda/1_AdiDevaadhyaayah.pdf
 
 ---
 
-### Step 2: OCR Extraction and AI Correction (Combined)
+### Step 2: OCR Extraction, AI Correction, and Enrichment (Combined)
 
-Extract Sanskrit text from PDF using OCR and immediately correct errors with Claude AI in a single streamlined step.
+Extract Sanskrit text from PDF using OCR, correct errors with Claude AI, and enrich with semantic metadata (word splitting, headwords, synonyms, genders - all in Devanagari script) in a single streamlined step.
 
 **Script:** `Scripts/AIGenerated/pdf_to_corrected_yaml.py`
 
-**Command:**
+**Command (Full Pipeline with Enrichment):**
+```bash
+python3 Scripts/AIGenerated/pdf_to_corrected_yaml.py \
+  Input/Vaijayanti_Kosha/1_SvargaKhanda/2_Lokapaaladhyayah.pdf \
+  -o Output/Vaijayanti_Kosha/1_SvargaKhanda/2_Lokapaaladhyayah.yaml \
+  --project-id YOUR_GCP_PROJECT_ID \
+  --title "लोकपालाध्यायः" \
+  --khanda "स्वर्गकाण्डः"
+```
+
+**Command (Skip Enrichment - OCR + Correction Only):**
 ```bash
 python3 Scripts/AIGenerated/pdf_to_corrected_yaml.py \
   Input/Vaijayanti_Kosha/1_SvargaKhanda/1_AdiDevaadhyaayah.pdf \
   -o Output/Vaijayanti_Kosha/1_SvargaKhanda/1_AdiDevaadhyaayah.yaml \
   --project-id YOUR_GCP_PROJECT_ID \
-  --title "आदिदेवाध्यायः" \
-  --khanda "स्वर्गकाण्डः"
+  --skip-enrichment
 ```
 
 **Parameters:**
 - First argument: Input PDF file path
-- `-o` - Output corrected YAML file path
+- `-o` - Output enriched YAML file path
 - `--project-id` - Your Google Cloud Project ID
 - `--region` - Vertex AI region (default: us-east5)
 - `--title` - Chapter title in Devanagari (optional)
 - `--khanda` - Section name in Devanagari (optional)
+- `--skip-enrichment` - Skip enrichment step, only do OCR + correction (optional)
 
 **Output:**
 ```
-Output/Vaijayanti_Kosha/1_SvargaKhanda/1_AdiDevaadhyaayah.yaml
+Output/Vaijayanti_Kosha/1_SvargaKhanda/2_Lokapaaladhyayah.yaml
 ```
 
 **What it does:**
@@ -180,12 +190,37 @@ Output/Vaijayanti_Kosha/1_SvargaKhanda/1_AdiDevaadhyaayah.yaml
    - Poetic meter (chandas)
    - Context from kosha dictionaries
    - Common OCR error patterns
-8. Saves final clean YAML with corrected slokas
+8. **[NEW]** Enriches with semantic metadata (all in Devanagari):
+   - Splits slokas into word groups
+   - Identifies headwords for each synonym group (in Devanagari)
+   - Extracts prātipadika (stem form) for each word (in Devanagari)
+   - Determines gender (m/f/n) for each word
+   - Adds `verify: false` field for manual proofreading
+9. Saves final enriched YAML with structured entries (Sanskrit fields in Devanagari)
 
-**Example Final YAML Output (Clean):**
+**Example Final YAML Output (Enriched with Devanagari metadata):**
 ```yaml
-स्वर्गं नाकः सुरालयः त्रिदिवं त्रिविष्टपम् ॥: {}
-देवा विबुधाः त्रिदशाः सुराः अमराः ॥: {}
+इन्द्रो दुश्चबनो वज्री धृतराष्ट्रौ सभो दृढः । बद्धश्रवाः श्यैनासीरः सहस्राक्षो दिशः पतिः ॥:
+  entries:
+  - head: इन्द्र              # Headword in Devanagari
+    verify: false           # Manual verification needed
+    gender: m               # Masculine
+    syns:
+    - prati: इन्द्र         # Synonym stem in Devanagari
+      gender: m
+    - prati: दुश्चबन
+      gender: m
+    - prati: वज्रिन्
+      gender: m
+  - head: राष्ट्र
+    verify: false
+    gender: m
+    syns:
+    - prati: धृतराष्ट्र
+      gender: m
+    - prati: सभा
+      gender: f
+    qual: dṛḍha (firm/strong)
 ```
 
 **Common OCR Errors Corrected:**
@@ -196,15 +231,17 @@ Output/Vaijayanti_Kosha/1_SvargaKhanda/1_AdiDevaadhyaayah.yaml
 - Incorrect matras
 
 **Performance:**
-- Processing time: ~2-3 seconds per sloka
-- For 65 slokas: ~3-5 minutes total
+- OCR + Correction: ~2-3 seconds per sloka
+- Enrichment: ~2-3 seconds per sloka
+- **Total for 61 slokas: ~4-6 minutes** (with enrichment)
+- **Total for 61 slokas: ~2-3 minutes** (without enrichment)
 - Typical correction rate: 95-97% of slokas improved
 
 ---
 
-### Alternative: Separate Steps
+### Alternative: Separate Steps (Legacy)
 
-If you prefer to run OCR and correction separately, you can use the individual scripts:
+**Note:** The integrated pipeline above is recommended for most use cases. However, if you prefer to run steps separately, you can use the individual scripts:
 
 **Step 2A: OCR Only**
 ```bash

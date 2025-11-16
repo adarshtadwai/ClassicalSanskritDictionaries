@@ -42,6 +42,7 @@ Rules:
 - Look for sandhi and vibhakti to identify word boundaries
 - Group words that are synonyms (have the same meaning)
 - Use ONLY these gender codes: m, f, n
+- IMPORTANT: Write all Sanskrit words (head and prati fields) in Devanagari script, NOT in romanized transliteration
 
 Return ONLY valid JSON in this exact format (no markdown, no explanation):
 {{
