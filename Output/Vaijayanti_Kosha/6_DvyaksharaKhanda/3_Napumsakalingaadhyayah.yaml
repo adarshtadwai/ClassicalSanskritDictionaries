@@ -1,0 +1,1874 @@
+नपुंसकलिङ्गाध्यायः ॥:
+  entries:
+  - head: अध्याय
+    verify: false
+    gender: m
+    syns:
+    - prati: अध्याय
+      gender: m
+  - head: लिङ्ग
+    verify: false
+    gender: n
+    syns:
+    - prati: लिङ्ग
+      gender: n
+  - head: नपुंसक
+    verify: false
+    gender: n
+    syns:
+    - prati: नपुंसक
+      gender: n
+अभ्रं सलिलदे व्योम्नि अग्रं कोदण्ड आयुधे । अग्रं पुरः शिखा मान रौष्ट्याधिक्य फलेषु च ॥:
+  entries:
+  - head: अभ्र
+    verify: false
+    gender: n
+    syns:
+    - prati: अभ्र
+      gender: n
+    - prati: सलिल
+      gender: n
+    qual: cloud/water
+  - head: व्योम्न्
+    verify: false
+    gender: n
+    syns:
+    - prati: व्योम्न्
+      gender: n
+    - prati: आयुध
+      gender: n
+    qual: sky/weapon
+  - head: कोदण्ड
+    verify: false
+    gender: m
+    syns:
+    - prati: कोदण्ड
+      gender: m
+    - prati: आयुध
+      gender: m
+    qual: bow
+  - head: अग्र
+    verify: false
+    gender: n
+    syns:
+    - prati: अग्र
+      gender: n
+    - prati: पुरस्
+      gender: n
+    - prati: शिखा
+      gender: f
+    - prati: रौष्ट्य
+      gender: n
+    qual: front/top/foremost
+सस्के पदयादिकोशेऽण्डं दुःखेनोत्यसनेष्वघम् । अशेषी व्याधिदुर्नीता आज्ये श्रीवासवर्षिषि ॥:
+  entries:
+  - head: दुःख
+    verify: false
+    gender: n
+    syns:
+    - prati: अघ
+      gender: n
+    - prati: दुर्नीत
+      gender: n
+  - head: व्याधि
+    verify: false
+    gender: m
+    syns:
+    - prati: उत्यसन
+      gender: n
+  - head: अण्ड
+    verify: false
+    gender: n
+    syns:
+    - prati: पद
+      gender: m
+वसौ तेजीवितेष्वायुरास्य मुखविल्ले सखे । उरस्तु वक्षसि श्रेष्ठं ऋतं तथ्यशिलोच्छयोः ॥:
+  entries:
+  - head: तेजीवित
+    verify: false
+    gender: n
+    syns:
+    - prati: जीवित
+      gender: n
+    - prati: तेज
+      gender: n
+  - head: आयु
+    verify: false
+    gender: n
+    syns:
+    - prati: जीवित
+      gender: n
+    - prati: आयु
+      gender: n
+  - head: मुख
+    verify: false
+    gender: n
+    syns:
+    - prati: मुख
+      gender: n
+    - prati: विल्ल
+      gender: n
+  - head: वक्षस्
+    verify: false
+    gender: n
+    syns:
+    - prati: उरस्
+      gender: n
+    - prati: वक्षस्
+      gender: n
+  - head: ऋत
+    verify: false
+    gender: n
+    syns:
+    - prati: ऋत
+      gender: n
+    - prati: तथ्य
+      gender: n
+ओजोऽवष्टम्भबलयोरोकसी मन्दिराश्रमौ । क्रियायाजनयोः कर्म क्षीरं दोग्धजमम्बु च ॥:
+  entries:
+  - head: बल
+    verify: false
+    gender: n
+    syns:
+    - prati: ओजस्
+      gender: n
+    - prati: अवष्टम्भ
+      gender: m
+  - head: मन्दिर
+    verify: false
+    gender: n
+    syns:
+    - prati: आश्रम
+      gender: m
+  - head: कर्म
+    verify: false
+    gender: n
+    syns:
+    - prati: क्रिया
+      gender: f
+    - prati: याजन
+      gender: n
+  - head: अम्बु
+    verify: false
+    gender: n
+    syns:
+    - prati: क्षीर
+      gender: n
+    - prati: दोग्धज
+      gender: n
+कुण्डं स्थाल्यां जलाधारविशेषे ऽनलगतं च। पिण्याकः नवहूः किण्वं कूलं तीरे चमूकटौ॥:
+  entries:
+  - head: कुण्ड
+    verify: false
+    gender: n
+    syns:
+    - prati: कुण्ड
+      gender: n
+    - prati: स्थाल्य
+      gender: f
+    qual: जलाधार विशेष
+  - head: अनल
+    verify: false
+    gender: m
+    syns:
+    - prati: अनल
+      gender: m
+    qual: जलाधार में स्थित
+  - head: पिण्याक
+    verify: false
+    gender: m
+    syns:
+    - prati: पिण्याक
+      gender: m
+    - prati: नवहू
+      gender: m
+    - prati: किण्व
+      gender: m
+  - head: कूल
+    verify: false
+    gender: n
+    syns:
+    - prati: कूल
+      gender: n
+    - prati: तीर
+      gender: n
+  - head: चमूकट
+    verify: false
+    gender: m
+    syns:
+    - prati: चमूकट
+      gender: m
+तत्र ग्रहे पुरे देवे केदारे योनिमायया:। पुण्यस्थाने समूहे च धृतं त्वा ञ्जये अम्बुसर्पिषो:॥:
+  entries:
+  - head: ग्रह
+    verify: false
+    gender: m
+    syns:
+    - prati: ग्रह
+      gender: m
+    - prati: पुर
+      gender: n
+  - head: देव
+    verify: false
+    gender: m
+    syns:
+    - prati: देव
+      gender: m
+  - head: केदार
+    verify: false
+    gender: m
+    syns:
+    - prati: केदार
+      gender: m
+  - head: योनि
+    verify: false
+    gender: f
+    syns:
+    - prati: योनि
+      gender: f
+  - head: पुण्यस्थान
+    verify: false
+    gender: n
+    syns:
+    - prati: पुण्यस्थान
+      gender: n
+    - prati: समूह
+      gender: m
+  - head: अम्बु
+    verify: false
+    gender: n
+    syns:
+    - prati: अम्बु
+      gender: n
+    - prati: सर्पिस्
+      gender: n
+चक्रं सैन्ये जलावतर्तं रथाङ्गे चरिताष्टयोः। संसारे मण्डले वर्ते छद्मभेदाश्रयैर् यदः॥:
+  entries: []
+चेत्यं चित्के बुद्धे ऽण्डे उदेशे ऽद्रौ खरालये। चिह्नमङ्के पताकायां छद्म सदानि कैतवे॥:
+  entries:
+  - head: चेत्य
+    verify: false
+    gender: n
+    syns:
+    - prati: चित्
+      gender: n
+    - prati: चेत्य
+      gender: n
+  - head: बुद्धि
+    verify: false
+    gender: f
+    syns:
+    - prati: बुद्ध
+      gender: m
+    - prati: बुद्धि
+      gender: f
+  - head: अण्ड
+    verify: false
+    gender: n
+    syns:
+    - prati: अण्ड
+      gender: n
+    - prati: उदेश
+      gender: m
+  - head: अद्रि
+    verify: false
+    gender: m
+    syns:
+    - prati: अद्रि
+      gender: m
+    - prati: खर
+      gender: m
+    - prati: आलय
+      gender: m
+  - head: चिह्न
+    verify: false
+    gender: n
+    syns:
+    - prati: अङ्क
+      gender: m
+    - prati: चिह्न
+      gender: n
+  - head: पताका
+    verify: false
+    gender: f
+    syns:
+    - prati: पताका
+      gender: f
+  - head: छद्म
+    verify: false
+    gender: n
+    syns:
+    - prati: सदन
+      gender: n
+    - prati: छद्म
+      gender: n
+    - prati: कैतव
+      gender: n
+छन्दः श्रुतीच्छापदयेष्वच्छिद्रं रन्ध्यापराधयोः। जालं गवाक्ष आनाये क्षारके कपटे गणे॥:
+  entries:
+  - head: रन्ध्र
+    verify: false
+    gender: n
+    syns:
+    - prati: अच्छिद्र
+      gender: n
+  - head: अपराध
+    verify: false
+    gender: m
+    syns:
+    - prati: रन्ध्य
+      gender: m
+  - head: जाल
+    verify: false
+    gender: n
+    syns:
+    - prati: गवाक्ष
+      gender: m
+  - head: कपट
+    verify: false
+    gender: m
+    syns:
+    - prati: क्षारक
+      gender: m
+    - prati: गण
+      gender: m
+जीलं च भेपुटः कोशो हस्तिः करकपत्रिका। ज्योतिस्ताराग्निभाञ्चालाद्दकपुत्राध्वरात्मसु ॥:
+  entries:
+  - head: हस्ति
+    verify: false
+    gender: m
+    syns:
+    - prati: हस्ति
+      gender: m
+    - prati: करकपत्रिका
+      gender: f
+  - head: कोश
+    verify: false
+    gender: m
+    syns:
+    - prati: कोश
+      gender: m
+    - prati: जीलम्
+      gender: n
+    - prati: भेपुट
+      gender: m
+  - head: ज्योतिस्
+    verify: false
+    gender: m
+    syns:
+    - prati: ज्योतिस्
+      gender: m
+    - prati: तारा
+      gender: f
+    - prati: अग्नि
+      gender: m
+    - prati: भाञ्चाल
+      gender: m
+तन्त्रं स्वराट्क्षयापारे तन्तुवाये परिच्छदे । शाखौषधान्तरमुख्येषु प्रयोगोऽध्वरकर्मणम् ॥:
+  entries:
+  - head: तन्त्र
+    verify: false
+    gender: n
+    syns:
+    - prati: तन्त्र
+      gender: n
+  - head: स्वराट्
+    verify: false
+    gender: m
+    syns:
+    - prati: स्वराट्
+      gender: m
+  - head: तन्तुवाय
+    verify: false
+    gender: m
+    syns:
+    - prati: तन्तुवाय
+      gender: m
+  - head: परिच्छद
+    verify: false
+    gender: m
+    syns:
+    - prati: परिच्छद
+      gender: m
+  - head: शाखा
+    verify: false
+    gender: f
+    syns:
+    - prati: शाखा
+      gender: f
+    - prati: औषध
+      gender: n
+    - prati: अन्तर
+      gender: n
+  - head: प्रयोग
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रयोग
+      gender: m
+  - head: अध्वर
+    verify: false
+    gender: m
+    syns:
+    - prati: अध्वर
+      gender: m
+एकस्येवोभयार्थत्वे कुलव्याप्रतावपि । तल्पं शय्या तृजायासु तनुषी तनुविष्ठिती ॥:
+  entries:
+  - head: तल्प
+    verify: false
+    gender: n
+    syns:
+    - prati: शय्या
+      gender: f
+  - head: तनु
+    verify: false
+    gender: f
+    syns:
+    - prati: तनुषी
+      gender: f
+    - prati: तनुविष्ठिती
+      gender: f
+तपु, सीसे च रङ्गे च तरसी बलरक्षसी। तीर्थे मन्त्राद् उपाध्यायाच् चेष्वम्भसि पावने ॥:
+  entries:
+  - head: तपु
+    verify: false
+    gender: n
+    syns:
+    - prati: तपु
+      gender: n
+    - prati: सीस
+      gender: n
+    - prati: रङ्ग
+      gender: m
+    - prati: तरसी
+      gender: f
+  - head: बलरक्षस्
+    verify: false
+    gender: n
+    syns:
+    - prati: बलरक्षस्
+      gender: n
+  - head: तीर्थ
+    verify: false
+    gender: n
+    syns:
+    - prati: तीर्थ
+      gender: n
+    - prati: मन्त्र
+      gender: m
+    - prati: उपाध्याय
+      gender: m
+  - head: अम्भस्
+    verify: false
+    gender: n
+    qual: पावने
+    syns:
+    - prati: अम्भस्
+      gender: n
+पात्रोपायावतरेषु सीपुष्पे योनिजन्मनोः। तेजो बले प्रभावे ऽन्ने व्योम्नि अर्चिषि रेतसि ॥:
+  entries:
+  - head: पात्र
+    verify: false
+    gender: n
+    syns:
+    - prati: पात्र
+      gender: n
+    - prati: उपाय
+      gender: m
+  - head: सीपुष्प
+    verify: false
+    gender: n
+    syns:
+    - prati: सीपुष्प
+      gender: n
+  - head: योनि
+    verify: false
+    gender: f
+    syns:
+    - prati: योनि
+      gender: f
+    - prati: जन्मन्
+      gender: n
+  - head: तेजस्
+    verify: false
+    gender: n
+    syns:
+    - prati: तेजस्
+      gender: n
+    - prati: बल
+      gender: n
+    - prati: प्रभाव
+      gender: m
+  - head: अन्न
+    verify: false
+    gender: n
+    syns:
+    - prati: अन्न
+      gender: n
+  - head: व्योमन्
+    verify: false
+    gender: n
+    syns:
+    - prati: व्योमन्
+      gender: n
+    - prati: अर्चिस्
+      gender: f
+    - prati: रेतस्
+      gender: n
+नवनीते अनले धर्मे दानं हस्तिमदे अपि च। द्रव्यं सगुणानामाधारे भेषजे योगतत्त्वयोः ॥:
+  entries:
+  - head: नवनीत
+    verify: false
+    gender: n
+    syns:
+    - prati: नवनीत
+      gender: n
+  - head: अनल
+    verify: false
+    gender: m
+    syns:
+    - prati: अनल
+      gender: m
+  - head: धर्म
+    verify: false
+    gender: m
+    syns:
+    - prati: धर्म
+      gender: m
+  - head: दान
+    verify: false
+    gender: n
+    syns:
+    - prati: दान
+      gender: n
+  - head: हस्तिमद
+    verify: false
+    gender: m
+    syns:
+    - prati: हस्तिमद
+      gender: m
+  - head: द्रव्य
+    verify: false
+    gender: n
+    syns:
+    - prati: द्रव्य
+      gender: n
+  - head: गुण
+    verify: false
+    gender: m
+    syns:
+    - prati: गुण
+      gender: m
+  - head: भेषज
+    verify: false
+    gender: n
+    syns:
+    - prati: भेषज
+      gender: n
+  - head: योग
+    verify: false
+    gender: m
+    syns:
+    - prati: योग
+      gender: m
+इन्द्रं युग्मं महिमोष्णादि मिथुनं कलहो रहः । धाम जन्मप्रभावात् नभाः सु खे भोजने गृहे ॥:
+  entries:
+  - head: इन्द्र
+    verify: false
+    gender: m
+    syns:
+    - prati: इन्द्र
+      gender: m
+  - head: युग्म
+    verify: false
+    gender: n
+    syns:
+    - prati: युग्म
+      gender: n
+  - head: महिमन्
+    verify: false
+    gender: m
+    syns:
+    - prati: महिमन्
+      gender: m
+    - prati: ओष्ण
+      gender: m
+  - head: मिथुन
+    verify: false
+    gender: n
+    syns:
+    - prati: मिथुन
+      gender: n
+  - head: कलह
+    verify: false
+    gender: m
+    syns:
+    - prati: कलह
+      gender: m
+  - head: रहस्
+    verify: false
+    gender: n
+    syns:
+    - prati: रहस्
+      gender: n
+  - head: धाम
+    verify: false
+    gender: n
+    syns:
+    - prati: धाम
+      gender: n
+  - head: जन्म
+    verify: false
+    gender: n
+    syns:
+    - prati: जन्म
+      gender: n
+  - head: नभस्
+    verify: false
+    gender: n
+    syns:
+    - prati: नभस्
+      gender: n
+  - head: सुख
+    verify: false
+    gender: n
+    syns:
+    - prati: सुख
+      gender: n
+  - head: भोजन
+    verify: false
+    gender: n
+    syns:
+    - prati: भोजन
+      gender: n
+  - head: गृह
+    verify: false
+    gender: n
+    syns:
+    - prati: गृह
+      gender: n
+नेत्रं नाक्ष्यां ततो दृष्टे वच दृशि मथो गुणे । नस्यं तौ त्रिके नृत्ते नालं विषयशेपयोः ॥:
+  entries:
+  - head: नेत्र
+    verify: false
+    gender: n
+    syns:
+    - prati: नेत्र
+      gender: n
+    - prati: अक्षि
+      gender: n
+  - head: दृष्टि
+    verify: false
+    gender: f
+    syns:
+    - prati: दृष्टि
+      gender: f
+    - prati: दृश
+      gender: f
+  - head: गुण
+    verify: false
+    gender: m
+    syns:
+    - prati: गुण
+      gender: m
+  - head: नृत्त
+    verify: false
+    gender: n
+    syns:
+    - prati: नृत्त
+      gender: n
+पदं स्थाने शरे त्राणे पादाङ्के पादचिह्नयोः। शब्देऽर्थे वस्तुबाक्येषु उपायव्यपदेशयोः ॥:
+  entries:
+  - head: पद
+    verify: false
+    gender: n
+    syns:
+    - prati: पाद
+      gender: m
+    - prati: स्थान
+      gender: n
+  - head: त्राण
+    verify: false
+    gender: n
+    syns:
+    - prati: शर
+      gender: m
+  - head: पादाङ्क
+    verify: false
+    gender: m
+    syns:
+    - prati: पादचिह्न
+      gender: m
+  - head: शब्द
+    verify: false
+    gender: m
+    syns:
+    - prati: अर्थ
+      gender: m
+    - prati: वस्तु
+      gender: n
+    - prati: वाक्य
+      gender: n
+  - head: उपाय
+    verify: false
+    gender: m
+    syns:
+    - prati: व्यपदेश
+      gender: m
+पर्व वर्षन्थौ पञ्चदश्यां प्रस्तावे विषुवादिके। पञ्चम सूत्रार्यवयवे किञ्जल्के नेत्रलोमसु ॥:
+  entries:
+  - head: पर्व
+    verify: false
+    gender: n
+    syns:
+    - prati: पर्व
+      gender: n
+    - prati: वर्षन्थ
+      gender: m
+  - head: पञ्चदशी
+    verify: false
+    gender: f
+    syns:
+    - prati: पञ्चदश्य
+      gender: f
+  - head: प्रस्ताव
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रस्ताव
+      gender: m
+    - prati: विषुवादिक
+      gender: m
+  - head: सूत्र
+    verify: false
+    gender: n
+    syns:
+    - prati: सूत्र
+      gender: n
+    - prati: अर्यवयव
+      gender: m
+  - head: किञ्जल्क
+    verify: false
+    gender: m
+    syns:
+    - prati: किञ्जल्क
+      gender: m
+    - prati: नेत्रलोमन्
+      gender: m
+पत्रं तु वाहने पर्णे शस्त्रिकागरुतोरपि। पयोऽम्भसि च दुग्धे च पात्रसी सलिलौदनौ ॥:
+  entries:
+  - head: पत्र
+    verify: false
+    gender: n
+    syns:
+    - prati: पत्र
+      gender: n
+    - prati: वाहन
+      gender: n
+  - head: पर्ण
+    verify: false
+    gender: n
+    syns:
+    - prati: पर्ण
+      gender: n
+    - prati: शस्त्रिका
+      gender: f
+    - prati: अगरुत
+      gender: n
+  - head: पय
+    verify: false
+    gender: n
+    syns:
+    - prati: पय
+      gender: n
+    - prati: अम्भस्
+      gender: n
+    - prati: दुग्ध
+      gender: n
+  - head: पात्र
+    verify: false
+    gender: n
+    syns:
+    - prati: पात्र
+      gender: n
+    - prati: सलिल
+      gender: n
+    - prati: उदन
+      gender: n
+पात्रं तु भाजने योग्ये वित्ते कुलदयान्तरे । पार्थेपि स्वर्णमाधारी पिच्छं वहन् खगच्छदे ॥:
+  entries:
+  - head: भाजन
+    verify: false
+    gender: n
+    syns:
+    - prati: पात्र
+      gender: n
+    - prati: भाजन
+      gender: n
+  - head: योग्य
+    verify: false
+    gender: m
+    syns:
+    - prati: योग्य
+      gender: m
+  - head: वित्त
+    verify: false
+    gender: n
+    syns:
+    - prati: वित्त
+      gender: n
+  - head: खग
+    verify: false
+    gender: m
+    syns:
+    - prati: खगच्छद
+      gender: m
+  - head: पिच्छ
+    verify: false
+    gender: n
+    syns:
+    - prati: पिच्छ
+      gender: n
+  - head: आधार
+    verify: false
+    gender: m
+    syns:
+    - prati: स्वर्णमाधार
+      gender: m
+पोत्रं सुखान्देशे स्यात् सुकरस्य हलस्य च। नवनीतं पयः पीतं वा पणशिखण्डयोः॥:
+  entries: []
+बीजं क्ले फलास्थ्नयन्ने भ्रेणी स्वर्णवेतने । वणिग्मूलधने पात्रे भाण्डं भूषाश्वमूषयोः ॥:
+  entries:
+  - head: बीज
+    verify: false
+    gender: n
+    syns:
+    - prati: बीज
+      gender: n
+  - head: फल
+    verify: false
+    gender: n
+    syns:
+    - prati: फल
+      gender: n
+    - prati: अस्थि
+      gender: n
+  - head: धन
+    verify: false
+    gender: n
+    syns:
+    - prati: वेतन
+      gender: n
+    - prati: धन
+      gender: n
+    - prati: मूल
+      gender: n
+  - head: पात्र
+    verify: false
+    gender: n
+    syns:
+    - prati: पात्र
+      gender: n
+    - prati: भाण्ड
+      gender: n
+  - head: भूषा
+    verify: false
+    gender: f
+    syns:
+    - prati: भूषा
+      gender: f
+    - prati: अश्व
+      gender: m
+    - prati: मूषा
+      gender: f
+भाग्ये कर्मण्यन्यजन्मकर्मण्यपि दधात् परे । भर्मसी रेतसालोकौ महसी तेजोत्सवौ ॥:
+  entries:
+  - head: भाग्य
+    verify: false
+    gender: n
+    syns:
+    - prati: भाग्य
+      gender: n
+    - prati: कर्म
+      gender: n
+  - head: जन्म
+    verify: false
+    gender: n
+    syns:
+    - prati: जन्म
+      gender: n
+    - prati: कर्म
+      gender: n
+  - head: रेतस्
+    verify: false
+    gender: n
+    syns:
+    - prati: रेतस्
+      gender: n
+    - prati: लोक
+      gender: m
+  - head: तेजस्
+    verify: false
+    gender: n
+    syns:
+    - prati: तेजस्
+      gender: n
+    - prati: महस्
+      gender: n
+    - prati: उत्सव
+      gender: m
+माल्यं पुष्पे पुष्पदाभ्रि मूल्यं वेतनवस्त्रयोः। सुखं तु वदने मुख्ये तत्र द्वाराभ्युपाययोः ॥:
+  entries:
+  - head: पुष्प
+    verify: false
+    gender: n
+    syns:
+    - prati: माल्य
+      gender: n
+    - prati: पुष्प
+      gender: n
+    - prati: पुष्पदाभ्रि
+      gender: n
+  - head: मूल्य
+    verify: false
+    gender: n
+    syns:
+    - prati: वेतन
+      gender: n
+    - prati: मूल्य
+      gender: n
+  - head: वस्त्र
+    verify: false
+    gender: n
+    syns:
+    - prati: वेतन
+      gender: n
+    - prati: वस्त्र
+      gender: n
+  - head: मुख्य
+    verify: false
+    gender: m
+    syns:
+    - prati: सुख
+      gender: n
+    - prati: वदन
+      gender: n
+    - prati: मुख्य
+      gender: m
+मूलं वशीकृतं स्वीये शिषातारान्तिकादिषु । गमने वाहने यानं रत्नं श्रेष्ठे मणौ अपि ॥:
+  entries:
+  - head: मूल
+    verify: false
+    gender: n
+    syns:
+    - prati: मूल
+      gender: n
+  - head: यान
+    verify: false
+    gender: n
+    syns:
+    - prati: यान
+      gender: n
+  - head: रत्न
+    verify: false
+    gender: n
+    syns:
+    - prati: रत्न
+      gender: n
+  - head: मणि
+    verify: false
+    gender: m
+    syns:
+    - prati: मणि
+      gender: m
+  - head: गमन
+    verify: false
+    gender: n
+    syns:
+    - prati: गमन
+      gender: n
+    - prati: वाहन
+      gender: n
+रहो रहस्ये सुरते रिष्टं नशे छन्दे ऽद्मे। रुक्मं देह सुलोहं च रेतसी शम्भ च ॥:
+  entries:
+  - head: रहस्य
+    verify: false
+    gender: n
+    syns:
+    - prati: रह
+      gender: n
+    - prati: रहस्य
+      gender: n
+  - head: सुरत
+    verify: false
+    gender: m
+    syns:
+    - prati: सुरत
+      gender: m
+  - head: नश
+    verify: false
+    gender: m
+    syns:
+    - prati: नश
+      gender: m
+    - prati: रिष्ट
+      gender: n
+  - head: देह
+    verify: false
+    gender: m
+    syns:
+    - prati: देह
+      gender: m
+    - prati: रुक्म
+      gender: n
+  - head: लोह
+    verify: false
+    gender: n
+    syns:
+    - prati: सुलोह
+      gender: n
+  - head: रेतस्
+    verify: false
+    gender: n
+    syns:
+    - prati: रेतसी
+      gender: f
+रूपं शब्दे पशौ लोके भन्थार्थे धृत्तौ सितादिषु । सौन्दर्ये च स्वभावे च शरद्रेण्वादिके रजः ॥:
+  entries:
+  - head: रूप
+    verify: false
+    gender: n
+    syns:
+    - prati: रूप
+      gender: n
+    - prati: शब्द
+      gender: m
+    qual: appearance, form
+  - head: पशु
+    verify: false
+    gender: m
+    syns:
+    - prati: पशु
+      gender: m
+    - prati: लोक
+      gender: m
+  - head: धृत्ति
+    verify: false
+    gender: f
+    syns:
+    - prati: धृत्ति
+      gender: f
+    - prati: भन्थार्थ
+      gender: m
+  - head: रजस्
+    verify: false
+    gender: n
+    syns:
+    - prati: रजस्
+      gender: n
+    - prati: सुन्दर्य
+      gender: n
+    - prati: स्वभाव
+      gender: m
+    - prati: सित
+      gender: m
+    qual: dust, color, essence
+ललं पल्लव उद्याने ललितं चिरवृष्टयोः। स्यादुपच्छन्दने लाल गुह्याऽर्थे परभार्ययोः ॥:
+  entries:
+  - head: लल
+    verify: false
+    gender: n
+    syns:
+    - prati: ललित
+      gender: n
+    - prati: पल्लव
+      gender: m
+    qual: उद्याने, चिरवृष्टयोः
+  - head: लाल
+    verify: false
+    gender: m
+    syns:
+    - prati: उपच्छन्दन
+      gender: n
+    qual: गुह्याऽर्थे, परभार्ययोः
+लिङ्गं शेफसि वेषेऽपि चिह्नविद्बुद्धिनादिसन्दतौ । बहुः, खगे ऽन्ने वर्णे ऽप्ये श्लाघ्याकारे तनौ वपुः ॥:
+  entries:
+  - head: लिङ्ग
+    verify: false
+    gender: n
+    syns:
+    - prati: चिह्न
+      gender: n
+    - prati: लिङ्ग
+      gender: n
+    qual: sign, characteristic mark
+  - head: बहु
+    verify: false
+    gender: m
+    syns:
+    - prati: बहु
+      gender: m
+    qual: many, much
+  - head: शरीर
+    verify: false
+    gender: n
+    syns:
+    - prati: वपुस्
+      gender: n
+    - prati: तनु
+      gender: n
+    qual: body, form
+  - head: वर्ण
+    verify: false
+    gender: m
+    syns:
+    - prati: वर्ण
+      gender: m
+    qual: color, class
+वर्चोऽधिरूपविभागेषु बलं भास्यं च कानने । तरतं विष्णोर्ऋतुवर्षज्ञातपोमासाग्निमुक्तिषु ॥:
+  entries:
+  - head: वर्च
+    verify: false
+    gender: n
+    syns:
+    - prati: वर्च
+      gender: n
+  - head: बल
+    verify: false
+    gender: n
+    syns:
+    - prati: बल
+      gender: n
+  - head: भास्य
+    verify: false
+    gender: n
+    syns:
+    - prati: भास्य
+      gender: n
+  - head: ऋतु
+    verify: false
+    gender: m
+    syns:
+    - prati: ऋतु
+      gender: m
+  - head: वर्ष
+    verify: false
+    gender: n
+    syns:
+    - prati: वर्ष
+      gender: n
+  - head: मास
+    verify: false
+    gender: m
+    syns:
+    - prati: मास
+      gender: m
+  - head: अग्नि
+    verify: false
+    gender: m
+    syns:
+    - prati: अग्नि
+      gender: m
+  - head: मुक्ति
+    verify: false
+    gender: f
+    syns:
+    - prati: मुक्ति
+      gender: f
+वीर्य पराक्रमे रेतस्यन्नमाहात्म्ययोरपि । वेद ब्रह्मणि नाके च शल्की शकलवल्कले ॥:
+  entries:
+  - head: वीर्य
+    verify: false
+    gender: n
+    syns:
+    - prati: पराक्रम
+      gender: m
+    - prati: वीर्य
+      gender: n
+  - head: रेतस्
+    verify: false
+    gender: n
+    syns:
+    - prati: रेतस्
+      gender: n
+    - prati: वीर्य
+      gender: n
+  - head: माहात्म्य
+    verify: false
+    gender: n
+    syns:
+    - prati: माहात्म्य
+      gender: n
+    - prati: अन्न
+      gender: n
+  - head: वेद
+    verify: false
+    gender: m
+    syns:
+    - prati: वेद
+      gender: m
+    - prati: ब्रह्मन्
+      gender: n
+  - head: नाक
+    verify: false
+    gender: m
+    syns:
+    - prati: नाक
+      gender: m
+    - prati: शल्की
+      gender: m
+    - prati: शकलवल्कल
+      gender: m
+शाखाण्यल्पमयः शंसा शाखं ग्रन्थनिदेशयोः । शङ्ग चापे हरेश्चापे शीलं वृत्तस्वभावयोः ॥:
+  entries:
+  - head: शाखा
+    verify: false
+    gender: f
+    syns:
+    - prati: शाखा
+      gender: f
+    - prati: अल्प
+      gender: n
+    qual: branch or extension
+  - head: ग्रन्थ
+    verify: false
+    gender: m
+    syns:
+    - prati: ग्रन्थ
+      gender: m
+    - prati: निदेश
+      gender: m
+    qual: text or composition
+  - head: चाप
+    verify: false
+    gender: m
+    syns:
+    - prati: चाप
+      gender: m
+    - prati: शङ्ग
+      gender: m
+    - prati: हरे
+      gender: m
+    qual: bow or arc
+  - head: शील
+    verify: false
+    gender: n
+    syns:
+    - prati: शील
+      gender: n
+    - prati: वृत्त
+      gender: n
+    - prati: स्वभाव
+      gender: m
+    qual: character or nature
+शुल्वं ताम्रं यज्ञकर्मण्याचारे जलसन्निधौ। शोचिः शोकाण्डुपाङ्गल्यशुद्धस्वेषु सरोऽप्सु च ॥:
+  entries:
+  - head: शुल्व
+    verify: false
+    gender: n
+    syns:
+    - prati: शुल्व
+      gender: n
+    - prati: ताम्र
+      gender: n
+    qual: copper material
+  - head: शोचिस्
+    verify: false
+    gender: m
+    syns:
+    - prati: शोचिस्
+      gender: m
+    - prati: शोक
+      gender: m
+    - prati: अण्डु
+      gender: m
+    - prati: पाङ्गल्य
+      gender: m
+    qual: related to light, emotion, or purification
+  - head: सर
+    verify: false
+    gender: n
+    syns:
+    - prati: सर
+      gender: n
+    - prati: अप्सु
+      gender: n
+    qual: water body or liquid
+यज्ञभेदे सदा दाने सत्रमाच्छादने वने। सर्पिर्घृते च तोये च सान्त्वे दाक्षिण्यसान्त्वने॥:
+  entries:
+  - head: यज्ञ
+    verify: false
+    gender: m
+    syns:
+    - prati: सत्र
+      gender: n
+  - head: दान
+    verify: false
+    gender: n
+    syns:
+    - prati: दाक्षिण्य
+      gender: n
+  - head: आच्छादन
+    verify: false
+    gender: n
+    syns:
+    - prati: सान्त्व
+      gender: n
+  - head: तोय
+    verify: false
+    gender: n
+    syns:
+    - prati: घृत
+      gender: n
+    - prati: सर्पि
+      gender: n
+स्नानीये ऽभिषवे क्षानं स्थानं स्याद्धाश्रये स्थितौ । सूत्र तन्त्रौ सम्प्रहोक्तौ सुखमानन्दतः परम् ॥:
+  entries:
+  - head: स्थान
+    verify: false
+    gender: n
+    syns:
+    - prati: स्थान
+      gender: n
+    - prati: धाश्रय
+      gender: m
+  - head: सूत्र
+    verify: false
+    gender: n
+    syns:
+    - prati: सूत्र
+      gender: n
+    - prati: तन्त्र
+      gender: n
+  - head: सुख
+    verify: false
+    gender: n
+    syns:
+    - prati: सुख
+      gender: n
+    - prati: आनन्द
+      gender: m
+खोतो ऽम्बुनिगमद्वारे इन्द्रये ऽप्सु जलक्षुतौ । हविर्हव्ये घृते तोये हेम्नी कार्ष्णवेतने ॥:
+  entries:
+  - head: जल
+    verify: false
+    gender: n
+    syns:
+    - prati: तोय
+      gender: n
+    - prati: अम्बु
+      gender: n
+  - head: हव्य
+    verify: false
+    gender: n
+    syns:
+    - prati: हविस्
+      gender: n
+    qual: ritual offering
+  - head: क्षुत
+    verify: false
+    gender: m
+    syns:
+    - prati: जलक्षुत
+      gender: m
+इति भगवता यादवप्रकाशेन विरचितायां वैजयन्त्यां यक्षरकाण्डे नपुंसकलिङ्गाध्यायः ॥:
+  entries:
+  - head: भगवत्
+    verify: false
+    gender: m
+    syns:
+    - prati: भगवत्
+      gender: m
+    - prati: यादवप्रकाश
+      gender: m
+  - head: यक्ष
+    verify: false
+    gender: n
+    syns:
+    - prati: रकाण्ड
+      gender: n
+  - head: लिङ्ग
+    verify: false
+    gender: n
+    syns:
+    - prati: नपुंसक
+      gender: n
+    - prati: लिङ्ग
+      gender: n
+अथ वाग्विधि धाध्यायः ॥:
+  entries:
+  - head: वाग्विधि
+    verify: false
+    gender: m
+    syns:
+    - prati: वाग्विधि
+      gender: m
+    - prati: धाध्याय
+      gender: m
+अर्थ्यो ऽर्थयुक्तात्मवतोरन्त्यो ऽन्त्यजनिष्ठयोः ॥:
+  entries:
+  - head: अर्थ्य
+    verify: false
+    gender: m
+    syns:
+    - prati: अर्थ्य
+      gender: m
+    - prati: अर्थयुक्त
+      gender: m
+  - head: अन्त्य
+    verify: false
+    gender: m
+    syns:
+    - prati: अन्त्य
+      gender: m
+    - prati: अन्त्यज
+      gender: m
+क्लृप्तेऽघौर्याध्यमघौरहं स्यादस्तत्र परत्र च॥:
+  entries:
+  - head: अघौर
+    verify: false
+    gender: m
+    syns:
+    - prati: अघौर
+      gender: m
+    - prati: क्लृप्त
+      gender: m
+  - head: स्थान
+    verify: false
+    gender: n
+    syns:
+    - prati: अस्तत्र
+      gender: n
+    - prati: परत्र
+      gender: n
+अन्यौ विभिन्नसदृशौ बाल्ये साधुर्गलीनयोः। आर्यमादिभवे मध्ये स्पृष्टिर्यत्र विभीदते ॥:
+  entries:
+  - head: साधु
+    verify: false
+    gender: m
+    syns:
+    - prati: बाल्य
+      gender: n
+    - prati: साधु
+      gender: m
+  - head: विभिन्न
+    verify: false
+    gender: m
+    syns:
+    - prati: विभिन्न
+      gender: m
+    - prati: सदृश
+      gender: m
+  - head: स्पृष्टि
+    verify: false
+    gender: f
+    syns:
+    - prati: स्पृष्टि
+      gender: f
+    - prati: विभीदते
+      gender: f
+सुख्यान्यकेवलेष्वेकः कष्टौ गहनदुःखितौ । कल्याणीरद्गदक्षस्ना योग्ययुक्तहिताः क्षमाः ॥:
+  entries:
+  - head: सुख
+    verify: false
+    gender: m
+    syns:
+    - prati: सुख्य
+      gender: m
+  - head: कष्ट
+    verify: false
+    gender: m
+    syns:
+    - prati: गहनदुःख
+      gender: m
+  - head: कल्याण
+    verify: false
+    gender: m
+    syns:
+    - prati: हित
+      gender: m
+    - prati: योग्य
+      gender: m
+  - head: क्षमा
+    verify: false
+    gender: f
+    syns:
+    - prati: गद
+      gender: m
+    - prati: रद्
+      gender: m
+    - prati: क्षस्न
+      gender: m
+कटुस्तिक्ताप्रियाकरो रसुरभ्यूषणमस्सरे ॥:
+  entries:
+  - head: कटु
+    verify: false
+    gender: m
+    syns:
+    - prati: कटु
+      gender: m
+  - head: तिक्त
+    verify: false
+    gender: m
+    syns:
+    - prati: तिक्त
+      gender: m
+  - head: रस
+    verify: false
+    gender: m
+    syns:
+    - prati: रस
+      gender: m
+  - head: अभ्यूषण
+    verify: false
+    gender: n
+    syns:
+    - prati: अभ्यूषण
+      gender: n
+ऋषिरूरो भयङ्करे क्रुद्धे लज्जासे कठिनोष्णयोः ॥:
+  entries:
+  - head: ऋषि
+    verify: false
+    gender: m
+    syns:
+    - prati: ऊरु
+      gender: m
+    - prati: ऋषि
+      gender: m
+  - head: भयङ्कर
+    verify: false
+    gender: m
+    syns:
+    - prati: क्रुद्ध
+      gender: m
+    - prati: भयङ्कर
+      gender: m
+  - head: लज्जा
+    verify: false
+    gender: f
+    syns:
+    - prati: कठिन
+      gender: m
+    - prati: उष्ण
+      gender: m
+गौरो ऽरुणे सिते पीते गृह्यस्त्वस्मै रिपदययोः । छिन्नाक्ते छिन्ननेत्रे च चिल्लं चुल्लं च पिल्लवत् ॥:
+  entries:
+  - head: अरुण
+    verify: false
+    gender: m
+    syns:
+    - prati: गौर
+      gender: m
+    - prati: सित
+      gender: m
+    - prati: पीत
+      gender: m
+  - head: रिपु
+    verify: false
+    gender: m
+    syns:
+    - prati: अरि
+      gender: m
+  - head: छिन्न
+    verify: false
+    gender: n
+    syns:
+    - prati: अक्त
+      gender: n
+    - prati: नेत्र
+      gender: n
+  - head: चिल्ल
+    verify: false
+    gender: n
+    syns:
+    - prati: चुल्ल
+      gender: n
+    - prati: पिल्लव
+      gender: n
+चोद्यं चित्रे चोदनार्हे चरे चित्रवचस्यपि। जडो जाल्मश्च निबद्धौ स्वचिन्ते ऽनालोच्यकारिणि ॥:
+  entries:
+  - head: चोदन
+    verify: false
+    gender: n
+    syns:
+    - prati: चोद्य
+      gender: n
+    - prati: चोदना
+      gender: f
+  - head: चित्र
+    verify: false
+    gender: n
+    syns:
+    - prati: चित्र
+      gender: n
+    - prati: चित्रवचस्
+      gender: n
+  - head: जड
+    verify: false
+    gender: m
+    syns:
+    - prati: जड
+      gender: m
+    - prati: जाल्म
+      gender: m
+    qual: without understanding or sensation
+  - head: निबद्ध
+    verify: false
+    gender: m
+    syns:
+    - prati: निबद्ध
+      gender: m
+    qual: bound, constrained
+ज्यायान् उदेश्चाप्यजन्मन्यतिवृद्धातिशस्तयोः। जात्यः श्रेष्ठे कुलीने च डम्भो बालिशबालयोः ॥:
+  entries:
+  - head: श्रेष्ठ
+    verify: false
+    gender: m
+    syns:
+    - prati: ज्यायस्
+      gender: m
+    - prati: उदेश
+      gender: m
+    - prati: जात्य
+      gender: m
+  - head: कुलीन
+    verify: false
+    gender: m
+    syns:
+    - prati: अतिवृद्ध
+      gender: m
+    - prati: अतिशस्त
+      gender: m
+  - head: बालिश
+    verify: false
+    gender: m
+    syns:
+    - prati: बाल
+      gender: m
+    - prati: डम्भ
+      gender: m
+दूतं शीघ्रं शीघ्रगते ऽप्यवदीर्णबिलीनयोः। दृढं गाढे ऽधिके स्थूले धूतं व्यक्ते प्रकम्पिते ॥:
+  entries:
+  - head: दूत
+    verify: false
+    gender: m
+    syns:
+    - prati: दूत
+      gender: m
+    - prati: शीघ्रगत
+      gender: m
+  - head: बिल
+    verify: false
+    gender: n
+    syns:
+    - prati: बिल
+      gender: n
+    - prati: अवदीर्ण
+      gender: n
+  - head: गाढ
+    verify: false
+    gender: m
+    syns:
+    - prati: गाढ
+      gender: m
+    - prati: दृढ
+      gender: m
+    - prati: अधिक
+      gender: m
+  - head: स्थूल
+    verify: false
+    gender: m
+    syns:
+    - prati: स्थूल
+      gender: m
+  - head: धूत
+    verify: false
+    gender: m
+    syns:
+    - prati: धूत
+      gender: m
+    - prati: व्यक्त
+      gender: m
+    - prati: प्रकम्पित
+      gender: m
+धृष्णुधर्षे प्रगल्भे च कुटिले बन्धुरे नतम् । न्यक्षं हिंसे निकृष्टे च निजमात्मीयनिस्ययोः ॥:
+  entries:
+  - head: धृष्णु
+    verify: false
+    gender: m
+    syns:
+    - prati: धृष्णु
+      gender: m
+    - prati: प्रगल्भ
+      gender: m
+  - head: कुटिल
+    verify: false
+    gender: m
+    syns:
+    - prati: कुटिल
+      gender: m
+    - prati: बन्धुर
+      gender: m
+  - head: निकृष्ट
+    verify: false
+    gender: m
+    syns:
+    - prati: निकृष्ट
+      gender: m
+    - prati: निजमात्मीय
+      gender: m
+    - prati: न्यक्ष
+      gender: m
+नीचं खर्वं निकृष्टे च समर्थेऽधिपतौ प्रभुः। प्राप्तं न्याय्ये च लब्धे च विपुलार्थे तयोर्बहु ॥:
+  entries:
+  - head: अधिपति
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रभु
+      gender: m
+  - head: निकृष्ट
+    verify: false
+    gender: m
+    syns:
+    - prati: नीच
+      gender: m
+    - prati: खर्व
+      gender: m
+    qual: low status or short in stature
+  - head: लब्ध
+    verify: false
+    gender: m
+    syns:
+    - prati: प्राप्त
+      gender: m
+    - prati: न्याय्य
+      gender: m
+    qual: obtained or acquired
+बालो मूढ़ः शिशौ बाल्ये भावी योग्यः युवा अपि च । मिश्रे अपि भिन्ने म्लेच्छं तु म्लाने अस्पष्टवाक्ययोः ॥:
+  entries:
+  - head: बाल
+    verify: false
+    gender: m
+    syns:
+    - prati: बाल
+      gender: m
+    - prati: शिशु
+      gender: m
+    - prati: मूढ़
+      gender: m
+    qual: young stage of life
+  - head: युवन्
+    verify: false
+    gender: m
+    syns:
+    - prati: युवा
+      gender: m
+    - prati: भावी
+      gender: m
+    - prati: योग्य
+      gender: m
+    qual: mature stage of life
+  - head: म्लेच्छ
+    verify: false
+    gender: m
+    syns:
+    - prati: म्लेच्छ
+      gender: m
+    - prati: म्लान
+      gender: m
+    qual: unclear speech or context
+सुप्तं सौम्ये नवे मूढे मूढो मोहिनि तन्द्रिते । मृदु रोक्ष्णे कोमले च बद्धोपरतयोर्यतः ॥:
+  entries:
+  - head: सुप्त
+    verify: false
+    gender: n
+    syns:
+    - prati: मूढ
+      gender: m
+    - prati: तन्द्रित
+      gender: m
+    - prati: मोहिन्
+      gender: m
+  - head: मृदु
+    verify: false
+    gender: m
+    syns:
+    - prati: कोमल
+      gender: m
+    - prati: सौम्य
+      gender: m
+  - head: बद्ध
+    verify: false
+    gender: m
+    syns:
+    - prati: उपरत
+      gender: m
+याप्यं गयं यापनीये प्रथक्संयुक्तयोऽयतम् । न्याय्यसंयुक्तयोक्तं रूक्षो निस्तरमण्यचिक्षणे ॥:
+  entries:
+  - head: यापनीय
+    verify: false
+    gender: n
+    syns:
+    - prati: याप्य
+      gender: n
+    - prati: गय
+      gender: n
+    - prati: यापनीय
+      gender: n
+  - head: संयुक्त
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रथक्संयुक्त
+      gender: m
+    - prati: न्याय्यसंयुक्त
+      gender: m
+  - head: रूक्ष
+    verify: false
+    gender: m
+    syns:
+    - prati: निस्तर
+      gender: m
+    - prati: अण्यचिक्षण
+      gender: m
+    - prati: रूक्ष
+      gender: m
+रथ्यो रथहितेऽमुष्य स्वीये ऽस्याश्वे च बोधरि । रागबद्रोहितौ रक्तौ रामशौरौ सिते ऽसिते ॥:
+  entries:
+  - head: रथ
+    verify: false
+    gender: m
+    syns:
+    - prati: रथ्य
+      gender: m
+    - prati: रथहित
+      gender: m
+  - head: अश्व
+    verify: false
+    gender: m
+    syns:
+    - prati: बोधरि
+      gender: m
+  - head: रक्त
+    verify: false
+    gender: m
+    syns:
+    - prati: राग
+      gender: m
+    - prati: बद्रोहित
+      gender: m
+  - head: राम
+    verify: false
+    gender: m
+    syns:
+    - prati: शौर
+      gender: m
+  - head: सित
+    verify: false
+    gender: m
+    syns:
+    - prati: सित
+      gender: m
+    - prati: असित
+      gender: m

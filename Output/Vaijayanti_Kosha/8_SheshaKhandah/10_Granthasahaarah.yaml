@@ -1,0 +1,293 @@
+षण्डे स्वै गुणद्रव्यक्रियायुक्तार्थेकास्त्रिषु । बहुत्वमेकता च स्याज्ञाव्याख्यायां यथा यवाः ॥:
+  entries:
+  - head: अर्थ
+    verify: false
+    gender: m
+    syns:
+    - prati: अर्थ
+      gender: m
+    - prati: द्रव्य
+      gender: n
+    - prati: गुण
+      gender: m
+  - head: एकता
+    verify: false
+    gender: f
+    syns:
+    - prati: एकता
+      gender: f
+    - prati: बहुत्व
+      gender: n
+    qual: ज्ञाव्याख्याम्
+  - head: यव
+    verify: false
+    gender: m
+    syns:
+    - prati: यव
+      gender: m
+यवश्च ब्रीहयो ब्रीहिरित्यथ स्याद् विशाखयोः । दिक् बहुवचश्चैवं द्यं प्रोष्ठपदास्वपि ॥:
+  entries:
+  - head: यव
+    verify: false
+    gender: m
+    syns:
+    - prati: यव
+      gender: m
+    - prati: ब्रीहि
+      gender: m
+  - head: दिक्
+    verify: false
+    gender: f
+    syns:
+    - prati: दिक्
+      gender: f
+    qual: बहुवचस्
+  - head: द्यु
+    verify: false
+    gender: n
+    syns:
+    - prati: द्यु
+      gender: n
+    - prati: प्रोष्ठपद
+      gender: n
+अनेकमिति शब्दस्य तद्विशेषस्य चैकता । सङ्कोचार्थस्याबहुत्वे देयेऽथानेका वधूरिति ॥:
+  entries:
+  - head: शब्द
+    verify: false
+    gender: m
+    syns:
+    - prati: शब्द
+      gender: m
+  - head: वधू
+    verify: false
+    gender: f
+    syns:
+    - prati: वधू
+      gender: f
+  - head: एक
+    verify: false
+    gender: m
+    syns:
+    - prati: एक
+      gender: m
+  - head: अनेक
+    verify: false
+    gender: m
+    syns:
+    - prati: अनेक
+      gender: m
+वीरोषे पूर्वदौर्बल्यं लोकतः शोषयन्नयेत् । इति सामान्यन्यायाः सर्वे जनाः सदस्यास्य युगपदर्कोद्यताः ॥:
+  entries:
+  - head: बल
+    verify: false
+    gender: n
+    syns:
+    - prati: दौर्बल्य
+      gender: n
+    - prati: पूर्वदौर्बल्य
+      gender: n
+  - head: जन
+    verify: false
+    gender: m
+    syns:
+    - prati: लोक
+      gender: m
+    - prati: सर्व
+      gender: m
+  - head: न्याय
+    verify: false
+    gender: m
+    syns:
+    - prati: सामान्यन्याय
+      gender: m
+न कलामपि भारत्या त्रायुवैशतेरपि ॥:
+  entries:
+  - head: कला
+    verify: false
+    gender: f
+    syns:
+    - prati: कला
+      gender: f
+  - head: भारती
+    verify: false
+    gender: f
+    syns:
+    - prati: भारती
+      gender: f
+  - head: त्रायुवैशति
+    verify: false
+    gender: f
+    syns:
+    - prati: त्रायुवैशति
+      gender: f
+? इति भगवता विदितनिखिलनिगमनिचयरहस्यवियेन दिनमणिसमतेजसा सकलतत्त्वप्रकाशेन यादवप्रकाशेन विरचितायां वैजयन्त्यां शेषकाण्डे लिङ्गग्रहाध्यायः ॥
+: entries:
+  - head: दिन
+    verify: false
+    gender: n
+    syns:
+    - prati: दिनमणि
+      gender: m
+    - prati: दिन
+      gender: n
+  - head: प्रकाश
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रकाश
+      gender: m
+    - prati: तत्त्व
+      gender: n
+  - head: रहस्य
+    verify: false
+    gender: n
+    syns:
+    - prati: रहस्य
+      gender: n
+    - prati: निचय
+      gender: m
+  - head: काण्ड
+    verify: false
+    gender: m
+    syns:
+    - prati: काण्ड
+      gender: m
+    - prati: शेष
+      gender: m
+? ग्रन्थोपसंहारः इति यतिवरसङ्घपूजिताङ्घ्रिः प्रथितयशाः पुरा यादवप्रकाशः। ग्रन्थरचयदभिधानशाखमेतत् सह वचनैः सह लिङ्गसङ्भारदेन ॥
+: entries:
+  - head: ग्रन्थ
+    verify: false
+    gender: m
+    syns:
+    - prati: ग्रन्थ
+      gender: m
+    - prati: उपसंहार
+      gender: m
+  - head: यति
+    verify: false
+    gender: m
+    syns:
+    - prati: यति
+      gender: m
+    - prati: वर
+      gender: m
+  - head: यश
+    verify: false
+    gender: n
+    syns:
+    - prati: यश
+      gender: n
+    - prati: प्रथित
+      gender: n
+  - head: रचन
+    verify: false
+    gender: f
+    syns:
+    - prati: रचन
+      gender: f
+    - prati: अभिधान
+      gender: n
+  - head: वचन
+    verify: false
+    gender: n
+    syns:
+    - prati: वचन
+      gender: n
+    - prati: लिङ्ग
+      gender: n
+एतां शुभां सष्टमिरक्तकाण्डे- भूतस्वरूपैरिव नाममालाम् । धत्तां विशाले हृदये सुरारि- स्त्वां वैजयन्तीमिव वैजयन्तीम् ॥:
+  entries:
+  - head: शुभ
+    verify: false
+    gender: f
+    syns:
+    - prati: शुभा
+      gender: f
+  - head: नाम
+    verify: false
+    gender: n
+    syns:
+    - prati: नाममाला
+      gender: f
+  - head: हृदय
+    verify: false
+    gender: n
+    syns:
+    - prati: विशाल
+      gender: m
+  - head: वैजयन्ती
+    verify: false
+    gender: f
+    syns:
+    - prati: वैजयन्ती
+      gender: f
+एवं समन्यायनिर्णीतशब्दैः सबोधकानां व्यज्ञकोऽसौ निघण्टुः । संवित्तीनां भूषणं सत्कवीनां प्राप्तः पारं वैजयन्तीनिषण्णुः ॥:
+  entries:
+  - head: निघण्टु
+    verify: false
+    gender: m
+    syns:
+    - prati: निघण्टु
+      gender: m
+    - prati: व्यज्ञक
+      gender: m
+    qual: शब्द कोश (dictionary)
+  - head: संवित्ति
+    verify: false
+    gender: f
+    syns:
+    - prati: संवित्ति
+      gender: f
+    - prati: भूषण
+      gender: n
+    qual: ज्ञान/बुद्धि (knowledge/understanding)
+  - head: कवि
+    verify: false
+    gender: m
+    syns:
+    - prati: कवि
+      gender: m
+    - prati: सत्कवि
+      gender: m
+    qual: विद्वान् कवि (learned poet)
+  - head: वैजयन्ती
+    verify: false
+    gender: f
+    syns:
+    - prati: वैजयन्ती
+      gender: f
+    - prati: निषण्णु
+      gender: m
+    qual: विजय की निशानी (symbol of victory)
+नानाविद्याविधवाभ्रलमाला मूर्तिं वेदं वेदयन्ती त्रिवेदा। रत्नबुद्धेः संकदध्वान्तचक्षे ज्ञेया वैजयन्ती जयन्ती ॥:
+  entries:
+  - head: विद्या
+    verify: false
+    gender: f
+    syns:
+    - prati: नानाविद्या
+      gender: f
+  - head: वेद
+    verify: false
+    gender: m
+    syns:
+    - prati: वेद
+      gender: m
+    - prati: त्रिवेद
+      gender: m
+  - head: जयन्ती
+    verify: false
+    gender: f
+    syns:
+    - prati: वैजयन्ती
+      gender: f
+    - prati: जयन्ती
+      gender: f
+    qual: victory-related
+  - head: बुद्धि
+    verify: false
+    gender: f
+    syns:
+    - prati: रत्नबुद्धि
+      gender: f

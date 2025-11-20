@@ -1,0 +1,658 @@
+अव्ययपर्यायाध्यायः ॥:
+  entries:
+  - head: अध्याय
+    verify: false
+    gender: m
+    syns:
+    - prati: अध्याय
+      gender: m
+    - prati: पर्याय
+      gender: m
+    qual: अव्यय category
+शीघ्रार्थे भटिति खरग्रात् मन्दबाह्य सपद्यपि । चिरेण चिररात्राय दीर्घकाले चिराचिरम् ॥:
+  entries:
+  - head: काल
+    verify: false
+    gender: m
+    syns:
+    - prati: दीर्घकाल
+      gender: m
+    - prati: चिर
+      gender: m
+    - prati: चिरात्र
+      gender: m
+  - head: अर्थ
+    verify: false
+    gender: m
+    syns:
+    - prati: शीघ्रार्थ
+      gender: m
+  - head: समय
+    verify: false
+    gender: m
+    syns:
+    - prati: सपद्य
+      gender: m
+    - prati: भटिति
+      gender: m
+विकल्पे किमुताहोस्वित् कियुताहो किमूत च। सम्बोधने ननु प्याद् पाट् हे दे भो अङ्ग हन्त च॥:
+  entries:
+  - head: विकल्प
+    verify: false
+    gender: m
+    syns:
+    - prati: किम्
+      gender: n
+    - prati: उत
+      gender: m
+    - prati: आहोस्वित्
+      gender: m
+  - head: सम्बोधन
+    verify: false
+    gender: n
+    syns:
+    - prati: ननु
+      gender: n
+    - prati: प्याट्
+      gender: m
+    - prati: पाट्
+      gender: m
+    - prati: हे
+      gender: n
+    - prati: दे
+      gender: n
+    - prati: भो
+      gender: n
+    - prati: अङ्ग
+      gender: n
+    - prati: हन्त
+      gender: n
+बौषड्वोषड्वषड्वौक्षद्वाक्षट् श्रौषड्वषट्कृतौ। परितः स्वतो विष्वक् समन्ताच्च समन्ततः॥:
+  entries:
+  - head: दिशा
+    verify: false
+    gender: f
+    syns:
+    - prati: परितः
+      gender: m
+    - prati: स्वतः
+      gender: m
+    - prati: विष्वक्
+      gender: m
+    - prati: समन्तात्
+      gender: m
+    - prati: समन्ततः
+      gender: m
+    qual: directional indicators or spatial extensions
+  - head: क्रिया
+    verify: false
+    gender: f
+    syns:
+    - prati: वोषट्
+      gender: m
+    - prati: वषट्
+      gender: m
+    - prati: श्रौषट्
+      gender: m
+    - prati: कृतौ
+      gender: f
+    qual: Vedic ritual actions or invocations
+किञ्चुतातीव बलवत् स्वति सुष्ठु च साधुके । प्रथग्विना दिरुङ् नानान्तरेणैतं च बहुने ॥:
+  entries:
+  - head: बल
+    verify: false
+    gender: n
+    syns:
+    - prati: बलवत्
+      gender: m
+    - prati: बहुन
+      gender: n
+  - head: मार्ग
+    verify: false
+    gender: m
+    syns:
+    - prati: दिश्
+      gender: f
+    - prati: अन्तर
+      gender: n
+  - head: साधु
+    verify: false
+    gender: m
+    syns:
+    - prati: साधुक
+      gender: m
+    - prati: सुष्ठु
+      gender: n
+काले ऽस्मिन्नथ नेदानीं सम्प्रत्येतर्हिं साम्प्रतम् । यदा यदहि तदा तहिं तदानीं सर्वदा सदा ॥:
+  entries:
+  - head: काल
+    verify: false
+    gender: m
+    syns:
+    - prati: काल
+      gender: m
+    - prati: समय
+      gender: m
+    - prati: अथ
+      gender: m
+  - head: वर्तमान
+    verify: false
+    gender: n
+    syns:
+    - prati: साम्प्रत
+      gender: n
+    - prati: सम्प्रति
+      gender: n
+    - prati: एतर्हि
+      gender: n
+    - prati: नेदानीम्
+      gender: n
+  - head: सर्वदा
+    verify: false
+    gender: f
+    syns:
+    - prati: सदा
+      gender: f
+    - prati: तदानीम्
+      gender: f
+शश्वत् सनातन सनातन च युगपद् एकदा संघते। दिशि श्चतुष्पत् सक्रतुर् इत्याद्या वर्तते कृतेः ।॥:
+  entries:
+  - head: शश्वत्
+    verify: false
+    gender: m
+    syns:
+    - prati: सनातन
+      gender: m
+    - prati: शश्वत्
+      gender: m
+  - head: दिश्
+    verify: false
+    gender: f
+    syns:
+    - prati: दिश्
+      gender: f
+    - prati: चतुष्पत्
+      gender: f
+  - head: कृति
+    verify: false
+    gender: f
+    syns:
+    - prati: कृतेः
+      gender: f
+    - prati: संघत
+      gender: m
+कदाचिद् जातु सद्यस्तु तत् क्षणेऽन्यक्षणेऽन्यदा । दोषा नक्तं च निश्यायां दिवा दयैतद् अहर् निशम् ॥:
+  entries:
+  - head: समय
+    verify: false
+    gender: m
+    syns:
+    - prati: क्षण
+      gender: m
+    - prati: निशि
+      gender: f
+    - prati: दिवस
+      gender: m
+  - head: अहन्
+    verify: false
+    gender: n
+    syns:
+    - prati: दिन
+      gender: n
+    - prati: निशा
+      gender: f
+  - head: दोष
+    verify: false
+    gender: m
+    syns:
+    - prati: रात्रि
+      gender: f
+    - prati: निशा
+      gender: f
+अपरेऽन्य परे दयः स्यादेवं पूर्वेतराधरे । उत्तरेऽन्यान्यतरयोस्तृतीयोः पूर्वादयः ॥:
+  entries:
+  - head: अन्य
+    verify: false
+    gender: m
+    syns:
+    - prati: अपर
+      gender: m
+    - prati: अन्य
+      gender: m
+    - prati: परे
+      gender: m
+  - head: दय
+    verify: false
+    gender: m
+    syns:
+    - prati: दय
+      gender: m
+उभयेऽद्यस्तु भयदुः परे स्वहा परेधवि। ह्यो गते ऽनागते तु श्वः परश्वस्तु ततः परे॥:
+  entries:
+  - head: भय
+    verify: false
+    gender: n
+    syns:
+    - prati: भय
+      gender: n
+    - prati: दुः
+      gender: n
+  - head: परे
+    verify: false
+    gender: m
+    syns:
+    - prati: परे
+      gender: m
+    - prati: स्वहा
+      gender: f
+    - prati: परेधवि
+      gender: m
+  - head: समय
+    verify: false
+    gender: m
+    syns:
+    - prati: ह्यो
+      gender: m
+    - prati: अद्य
+      gender: m
+    - prati: श्वः
+      gender: m
+    - prati: अनागत
+      gender: m
+सायं साये प्रगे प्रातः काले संवत्सरे तु वा । अतीतानन्तरे वर्षे पराते परमेश्वरः ॥:
+  entries:
+  - head: काल
+    verify: false
+    gender: m
+    syns:
+    - prati: संवत्सर
+      gender: m
+    - prati: काल
+      gender: m
+  - head: समय
+    verify: false
+    gender: m
+    syns:
+    - prati: सायम्
+      gender: m
+    - prati: प्रात
+      gender: m
+    - prati: परात
+      gender: m
+  - head: ईश्वर
+    verify: false
+    gender: m
+    syns:
+    - prati: परमेश्वर
+      gender: m
+  - head: अवधि
+    verify: false
+    gender: f
+    syns:
+    - prati: अतीत
+      gender: m
+    - prati: अनन्तर
+      gender: m
+    - prati: वर्ष
+      gender: n
+अतीते वर्तमाने च स्यादन्ते रजनीरुषा । सहः पुनःपुनः शश्वत् पुरस्तु पुरतो ऽग्रतः ॥:
+  entries:
+  - head: रजनीरुषा
+    verify: false
+    gender: f
+    syns:
+    - prati: रजनी
+      gender: f
+    - prati: रुषा
+      gender: f
+  - head: सहः
+    verify: false
+    gender: n
+    syns:
+    - prati: पुनः
+      gender: m
+    - prati: शश्वत्
+      gender: m
+  - head: पुर
+    verify: false
+    gender: n
+    syns:
+    - prati: पुरस्तु
+      gender: n
+    - prati: पुरतः
+      gender: n
+    - prati: अग्रतः
+      gender: n
+सङ्कोचे चिच्चन व्यथे सुधा शश्वत्तु शाश्वते । किञ्चनेषां मनाक् किञ्चिद् विकल्पेऽवश्यं तु निश्चिते ॥:
+  entries:
+  - head: संकोच
+    verify: false
+    gender: m
+    syns:
+    - prati: संकोच
+      gender: m
+    - prati: चित्र
+      gender: n
+  - head: व्यथा
+    verify: false
+    gender: f
+    syns:
+    - prati: व्यथा
+      gender: f
+    - prati: पीडा
+      gender: f
+  - head: शाश्वत
+    verify: false
+    gender: m
+    syns:
+    - prati: शाश्वत
+      gender: m
+    - prati: निश्चित
+      gender: m
+  - head: विकल्प
+    verify: false
+    gender: m
+    syns:
+    - prati: विकल्प
+      gender: m
+    - prati: निश्चय
+      gender: m
+निःशमं दुःशमं दुष्ट गह्यं सुष्ठु सखु शोभने। मिथ्या सता च वितथे यथार्थं तु यथातथम् ॥:
+  entries:
+  - head: यथार्थ
+    verify: false
+    gender: n
+    syns:
+    - prati: सत
+      gender: n
+    - prati: यथातथ
+      gender: n
+    - prati: वितथ
+      gender: n
+  - head: शोभन
+    verify: false
+    gender: n
+    syns:
+    - prati: सुष्ठु
+      gender: n
+    - prati: सखु
+      gender: n
+    - prati: शोभन
+      gender: n
+  - head: दुष्ट
+    verify: false
+    gender: n
+    syns:
+    - prati: दुःशम
+      gender: n
+    - prati: गह्य
+      gender: n
+    - prati: दुष्ट
+      gender: n
+  - head: मिथ्या
+    verify: false
+    gender: n
+    syns:
+    - prati: मिथ्या
+      gender: n
+    - prati: सता
+      gender: n
+मत्रदाने यदि चेद् यथास्वं तु यथायथम् | युक्ते स्थाने रूपोक्तौ वृद्धौ बहुबन्धने नमः ॥:
+  entries:
+  - head: दान
+    verify: false
+    gender: n
+    syns:
+    - prati: मत्र
+      gender: n
+    qual: giving/donation
+  - head: स्थान
+    verify: false
+    gender: n
+    syns:
+    - prati: युक्त
+      gender: n
+    - prati: स्थान
+      gender: n
+    qual: appropriate place
+  - head: वृद्धि
+    verify: false
+    gender: f
+    syns:
+    - prati: वृद्ध
+      gender: m
+    - prati: बन्धन
+      gender: n
+    qual: growth/increase
+  - head: नमस्
+    verify: false
+    gender: n
+    syns:
+    - prati: नमः
+      gender: n
+    qual: salutation/respect
+मौने तु तूष्णीं तूष्णीकं समया निकषा हि रुक् । न वद मैव त्रस्यामुत्र भवान्तरे ॥:
+  entries:
+  - head: मौन
+    verify: false
+    gender: n
+    syns:
+    - prati: तूष्णीम्
+      gender: n
+    - prati: तूष्णीक
+      gender: n
+  - head: समय
+    verify: false
+    gender: m
+    syns:
+    - prati: निकष
+      gender: m
+    - prati: रुक्
+      gender: m
+  - head: भव
+    verify: false
+    gender: m
+    syns:
+    - prati: अन्तर
+      gender: n
+    qual: transformation or state of existence
+रं मसीत शनकैः शनैः। प्रार्थं स्यादालुकं रुचिं अहो हि विस्मये प्रायो भूमन्यस्तमदर्शने ॥:
+  entries:
+  - head: शनकैः
+    verify: false
+    gender: m
+    syns:
+    - prati: शनैः
+      gender: m
+  - head: प्रार्थ
+    verify: false
+    gender: n
+    syns:
+    - prati: आलुक
+      gender: n
+    - prati: रुचि
+      gender: f
+  - head: विस्मय
+    verify: false
+    gender: m
+    syns:
+    - prati: अदर्शन
+      gender: n
+    - prati: विस्मये
+      gender: m
+    qual: प्रायो भूमन्
+हस्तु सजूः सर्वमंसं सह। समकं तु सजूः साकं साधु सत्रा समं सह सुखे दृष्टोपजोषं शमेवमां परमं मते॥:
+  entries:
+  - head: सह
+    verify: false
+    gender: n
+    syns:
+    - prati: समकम्
+      gender: n
+    - prati: साकम्
+      gender: n
+    - prati: समम्
+      gender: n
+  - head: सजूस्
+    verify: false
+    gender: m
+    syns:
+    - prati: हस्तु
+      gender: m
+  - head: सत्रा
+    verify: false
+    gender: f
+    syns:
+    - prati: साधु
+      gender: f
+  - head: सुख
+    verify: false
+    gender: n
+    syns:
+    - prati: शम्
+      gender: n
+हठे प्रसह्य मध्ये स्यादन्तरेणान्तरे ऽन्तरा । प्रदुराविः प्रकाशो बोगवरे स्वयमात्मनि ॥:
+  entries:
+  - head: हठ
+    verify: false
+    gender: m
+    syns:
+    - prati: हठ
+      gender: m
+    - prati: प्रसह्य
+      gender: m
+    qual: forceful, aggressive action
+  - head: अन्तर
+    verify: false
+    gender: n
+    syns:
+    - prati: अन्तर
+      gender: n
+    - prati: मध्य
+      gender: n
+    qual: middle, interior space
+  - head: प्रकाश
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रदुराविस्
+      gender: m
+    - prati: प्रकाश
+      gender: m
+    qual: revelation, manifestation
+  - head: आत्मन्
+    verify: false
+    gender: m
+    syns:
+    - prati: स्वयम्
+      gender: m
+    - prati: आत्मन्
+      gender: m
+    qual: self, own nature
+गागः। उपरिष्टात् उपरि ध्रुवं स्यात् अधस्तात् अधो तिर्यग् च साच्युच्च उच्यते नीचिर् नीच्युच्च केतरः ॥:
+  entries:
+  - head: दिश्
+    verify: false
+    gender: f
+    syns:
+    - prati: गाग
+      gender: m
+    - prati: नीचि
+      gender: m
+    - prati: नीच्यु
+      gender: m
+    - prati: केतर
+      gender: m
+  - head: स्थान
+    verify: false
+    gender: n
+    syns:
+    - prati: उपरिष्टात्
+      gender: n
+    - prati: उपरि
+      gender: n
+    - prati: अधस्तात्
+      gender: n
+    - prati: अधो
+      gender: n
+    - prati: तिर्यक्
+      gender: n
+    qual: directionality and spatial positioning
+स्थितं तथा प्रकारेऽन्यथा इतरथा कथम् इत्थं यथा द्विधा देशा त्रिधा तरैषा चतुर्धा द्वैषमादि च॥:
+  entries:
+  - head: प्रकार
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रकार
+      gender: m
+    - prati: इतर
+      gender: m
+    - prati: अन्य
+      gender: m
+  - head: देश
+    verify: false
+    gender: m
+    syns:
+    - prati: देश
+      gender: m
+  - head: संख्या
+    verify: false
+    gender: f
+    syns:
+    - prati: द्वि
+      gender: f
+    - prati: त्रि
+      gender: f
+    - prati: चतुर्
+      gender: f
+रये यत्र सप्तम्याः पञ्चम्या यत आदिकम् । इति ह स्यात् सम्प्रदाये पारेऽपारे दशौ पञ्च ॥:
+  entries:
+  - head: दिश्
+    verify: false
+    gender: f
+    syns:
+    - prati: दशौ
+      gender: f
+  - head: संख्या
+    verify: false
+    gender: f
+    syns:
+    - prati: पञ्च
+      gender: n
+  - head: सीमा
+    verify: false
+    gender: f
+    syns:
+    - prati: पारे
+      gender: m
+    - prati: अपारे
+      gender: m
+इति भगवता यादवेन्द्रकाशेन विरचितायां वैजयन्त्यां शोषकाण्डे श्रीनेकार्थमञ्जर्याध्यायः ॥:
+  entries:
+  - head: यादव
+    verify: false
+    gender: m
+    syns:
+    - prati: यादवेन्द्र
+      gender: m
+  - head: काश
+    verify: false
+    gender: m
+    syns:
+    - prati: काश
+      gender: m
+  - head: अध्याय
+    verify: false
+    gender: m
+    syns:
+    - prati: अध्याय
+      gender: m
+    - prati: शोषकाण्ड
+      gender: m
+  - head: वैजयन्ती
+    verify: false
+    gender: f
+    syns:
+    - prati: वैजयन्ती
+      gender: f

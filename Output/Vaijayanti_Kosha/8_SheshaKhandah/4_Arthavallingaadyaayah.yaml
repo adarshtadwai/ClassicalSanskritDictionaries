@@ -1,0 +1,413 @@
+हृष्टो हृषीतो हृष्टः प्रहर्षी अति विस्मिते ॥:
+  entries:
+  - head: हृष्ट
+    verify: false
+    gender: m
+    syns:
+    - prati: हृष्ट
+      gender: m
+    - prati: हृषीत
+      gender: m
+    - prati: प्रहर्षिन्
+      gender: m
+  - head: विस्मित
+    verify: false
+    gender: m
+    syns:
+    - prati: अति विस्मित
+      gender: m
+अभिघातव्याध्यायः ॥ सरोमाघ्ने प्रतिहते ऽप्यथ सप्रभदग्धयोः ।:
+  entries:
+  - head: व्याधि
+    verify: false
+    gender: m
+    syns:
+    - prati: घात
+      gender: m
+    - prati: अभिघात
+      gender: m
+  - head: हन्
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रतिहत
+      gender: m
+    - prati: आघ्न
+      gender: m
+स्युः प्रदीप्ता ज्वलिता दीप्रा उज्ज्वलिता इति ॥:
+  entries:
+  - head: दीप्त
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रदीप्त
+      gender: m
+    - prati: ज्वलित
+      gender: m
+    - prati: दीप्र
+      gender: m
+    - prati: उज्ज्वलित
+      gender: m
+? स्सिते वाच्यवक्तव्यौ बदितव्यविहीनयोः। अभिजातः लीने च न्याय्यपण्डितयोरपि॥ म्राप्ररूपोऽभिरूपश्च वथि अभिनीतः सुयुक्ते स्यादमर्षवति॥
+: entries:
+  - head: वाच्य
+    verify: false
+    gender: m
+    syns:
+    - prati: वाच्य
+      gender: m
+    - prati: वक्तव्य
+      gender: m
+  - head: बदितव्य
+    verify: false
+    gender: m
+    syns:
+    - prati: बदितव्य
+      gender: m
+    qual: विहीनयोः
+  - head: अभिजात
+    verify: false
+    gender: m
+    syns:
+    - prati: अभिजात
+      gender: m
+    - prati: लीन
+      gender: m
+  - head: पण्डित
+    verify: false
+    gender: m
+    syns:
+    - prati: पण्डित
+      gender: m
+  - head: अभिरूप
+    verify: false
+    gender: m
+    syns:
+    - prati: अभिरूप
+      gender: m
+    - prati: म्राप्ररूप
+      gender: m
+    - prati: अभिनीत
+      gender: m
+पन्न विपन्नाप्रमदास्तात्तदरुतदक्षिणाः । प्रणिहिते प्रेषिते भर्त्सिते ऽपि च ॥ सन् सत्येऽभ्यहिते त्रष्ठे साधीयसि भवत्यपि ।:
+  entries:
+  - head: विपन्न
+    verify: false
+    gender: m
+    syns:
+    - prati: पन्न
+      gender: m
+    - prati: विपन्न
+      gender: m
+  - head: प्रेषित
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रणिहित
+      gender: m
+    - prati: प्रेषित
+      gender: m
+    - prati: भर्त्सित
+      gender: m
+  - head: सत्य
+    verify: false
+    gender: n
+    syns:
+    - prati: सन्
+      gender: n
+    - prati: सत्य
+      gender: n
+निश्चिते स्याद् अवसितं समाप्त उपितेऽपि च। किं प्रश्नार्थे पटुत्सानां वितर्कस्य च गोचरे ॥:
+  entries:
+  - head: निश्चित
+    verify: false
+    gender: m
+    syns:
+    - prati: निश्चित
+      gender: m
+    - prati: अवसित
+      gender: m
+    - prati: समाप्त
+      gender: m
+  - head: वितर्क
+    verify: false
+    gender: m
+    syns:
+    - prati: वितर्क
+      gender: m
+    - prati: प्रश्न
+      gender: m
+    qual: विचार या तर्क का क्षेत्र
+  - head: पटु
+    verify: false
+    gender: m
+    syns:
+    - prati: पटु
+      gender: m
+    - prati: पटुत्सान
+      gender: m
+अवदातः सिते गौरे दधे चाथावलम्बिते ॥ ( इत्येकाक्षरौ ):
+  entries:
+  - head: अवदात
+    verify: false
+    gender: m
+    syns:
+    - prati: अवदात
+      gender: m
+    - prati: सित
+      gender: m
+    - prati: गौर
+      gender: m
+  - head: दध
+    verify: false
+    gender: n
+    syns:
+    - prati: दध
+      gender: n
+    - prati: अवलम्बित
+      gender: n
+अविदरेऽप्यवष्टब्धम् असम्पृक्तो रहस्यपि । इति भगवता यादवप्रकाशेन विरचितायां वैजयन्त्यां शेषकाण्डे श्रमिधेयवलिङ्गाध्यायः ॥:
+  entries:
+  - head: अवष्टब्ध
+    verify: false
+    gender: n
+    syns:
+    - prati: अविदर
+      gender: m
+    - prati: असम्पृक्त
+      gender: m
+  - head: रहस्य
+    verify: false
+    gender: n
+    syns:
+    - prati: गुप्त
+      gender: n
+  - head: श्रम
+    verify: false
+    gender: m
+    syns:
+    - prati: श्रमिधेय
+      gender: m
+    - prati: वलिङ्ग
+      gender: m
+उन्मिते चिक्कृते ऽपि स्याद् अवध्वस्तोऽवचूर्णिते ॥:
+  entries:
+  - head: अवध्वस्त
+    verify: false
+    gender: m
+    syns:
+    - prati: चिक्कृत
+      gender: m
+    - prati: उन्मित
+      gender: m
+    - prati: अवचूर्णित
+      gender: m
+स्याद्भ्रारूढमारूढे सातिरेके च सम्पदि । उत्कीर्णे स्याद् उक्षिप्ते अनुषक्ते तनूषते ॥:
+  entries:
+  - head: रूढ
+    verify: false
+    gender: m
+    syns:
+    - prati: आरूढ
+      gender: m
+    - prati: भ्रारूढ
+      gender: m
+  - head: सम्पद्
+    verify: false
+    gender: f
+    syns:
+    - prati: अतिरेक
+      gender: m
+  - head: उत्कीर्ण
+    verify: false
+    gender: m
+    syns:
+    - prati: उक्षिप्त
+      gender: m
+  - head: अनुषक्त
+    verify: false
+    gender: m
+    syns:
+    - prati: तनूषत
+      gender: m
+उदप्रादितमुषन्यस्ते बद्धप्राहितयोरपि ॥:
+  entries:
+  - head: उदप्रादित
+    verify: false
+    gender: n
+    syns:
+    - prati: उदप्रादित
+      gender: n
+  - head: मुषन्य
+    verify: false
+    gender: m
+    syns:
+    - prati: मुषन्य
+      gender: m
+  - head: बद्धप्राहित
+    verify: false
+    gender: m
+    syns:
+    - prati: बद्धप्राहित
+      gender: m
+कौवशुठिको दाम्भिके स्याद् यश्च आढृरेरितेक्षणः ॥:
+  entries:
+  - head: दाम्भिक
+    verify: false
+    gender: m
+    syns:
+    - prati: कौवशुठिक
+      gender: m
+  - head: आढृरेरिक
+    verify: false
+    gender: m
+    syns:
+    - prati: इक्षण
+      gender: m
+दशमीस्थस्तु स्थविरे नष्टबीजे मृताशने । परिप्राप्ते परिगतं प्रज्ञाते परिवेष्टितम् ॥:
+  entries:
+  - head: स्थविर
+    verify: false
+    gender: m
+    syns:
+    - prati: स्थविर
+      gender: m
+    - prati: नष्टबीज
+      gender: m
+  - head: मृत
+    verify: false
+    gender: m
+    syns:
+    - prati: मृताशन
+      gender: m
+  - head: परिगत
+    verify: false
+    gender: n
+    syns:
+    - prati: परिप्राप्त
+      gender: n
+    - prati: परिवेष्टित
+      gender: n
+    - prati: प्रज्ञात
+      gender: n
+प्रतिशिष्टप्रतिशक्षिप्तावाह्वय प्रेषितास्तयोः। विशिष्टे स्यात् प्रतिहतं प्रतिस्खलितवस्तुनि ॥:
+  entries:
+  - head: आह्वय
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रेषित
+      gender: m
+    - prati: आह्वय
+      gender: m
+  - head: प्रतिहत
+    verify: false
+    gender: n
+    syns:
+    - prati: प्रतिस्खलित
+      gender: n
+    - prati: प्रतिहत
+      gender: n
+  - head: विशिष्ट
+    verify: false
+    gender: n
+    syns:
+    - prati: विशिष्ट
+      gender: n
+समाहिते प्रणिहितं न्यस्तार्थप्रयोरपि । पुरस्कृतः पूजिते देवभियुक्तोऽप्रमत्तः कृते ॥:
+  entries:
+  - head: प्रणिहित
+    verify: false
+    gender: n
+    syns:
+    - prati: न्यस्त
+      gender: n
+    - prati: प्रणिहित
+      gender: n
+  - head: पूजित
+    verify: false
+    gender: m
+    syns:
+    - prati: पुरस्कृत
+      gender: m
+    - prati: पूजित
+      gender: m
+  - head: अप्रमत्त
+    verify: false
+    gender: m
+    syns:
+    - prati: देवभियुक्त
+      gender: m
+    - prati: अप्रमत्त
+      gender: m
+पौरुषेयं वपुषे पुंसो इन्दोः कायव्यकारयोः । ब्रह्मबन्धुरधिक्षिप्य निर्देश्ये ब्राह्मणाघमे ॥:
+  entries:
+  - head: पुरुष
+    verify: false
+    gender: m
+    syns:
+    - prati: पुंस
+      gender: m
+    - prati: पौरुषेय
+      gender: m
+  - head: काय
+    verify: false
+    gender: m
+    syns:
+    - prati: व्यकार
+      gender: m
+  - head: इन्दु
+    verify: false
+    gender: m
+    syns:
+    - prati: इन्दोः
+      gender: m
+  - head: ब्राह्मण
+    verify: false
+    gender: m
+    syns:
+    - prati: ब्रह्मबन्धु
+      gender: m
+    qual: आघम (sin or fault)
+यातयामं यातयामे जीर्णे मुक्तोष्णितेऽपि च । लालाटकः प्रभोश्छन्दः दशी कायेक्षमश्च यः ॥:
+  entries:
+  - head: कायेक्षम
+    verify: false
+    gender: m
+    syns:
+    - prati: लालाटक
+      gender: m
+    - prati: कायेक्षम
+      gender: m
+  - head: यातयाम
+    verify: false
+    gender: n
+    syns:
+    - prati: यातयाम
+      gender: n
+    - prati: जीर्ण
+      gender: n
+    - prati: मुक्तोष्णित
+      gender: n
+  - head: प्रभु
+    verify: false
+    gender: m
+    syns:
+    - prati: प्रभोश्छन्द
+      gender: m
+    - prati: दशी
+      gender: m
+टे वक्चिते तु विलम्बितम् । क ६ पण्डितम् मन्यगतौ ॥:
+  entries:
+  - head: पण्डित
+    verify: false
+    gender: m
+    syns:
+    - prati: पण्डित
+      gender: m
+  - head: विलम्बित
+    verify: false
+    gender: n
+    syns:
+    - prati: विलम्बित
+      gender: n
