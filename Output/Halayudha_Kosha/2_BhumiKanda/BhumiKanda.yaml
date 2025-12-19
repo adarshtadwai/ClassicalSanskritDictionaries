@@ -11474,7 +11474,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
     syns:
     - prati: बन्धक
       gender: m
-बालः पाको अभेकः च गर्भाः पोतश्च पृथुकः शिशुः । जारः डिम्भकश्च विज्ञेयो वटुर्माणवको मतः ॥:
+बालः पाकोऽर्भको गर्भः पोतश्च पृथुकः शिशुः । शावो डिम्भश्च विज्ञेयो वटुर्माणवको मतः ॥:
   entries:
   - head: शिशु
     verify: false
@@ -11506,7 +11506,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: डिम्भक
       gender: m
-प्रवयाः स्थविरो वृद्धो यातयामश्च कथ्यते । जरा तु विरसा प्रोक्ता दारकस्तरुणो युवा ॥:
+प्रवयाः स्थविरो वृद्धो मातयामश्च कथ्यते । जरा तु विस्रसा प्रोक्ता दारकस्तरुणो युवा ॥:
   entries:
   - head: स्थविर
     verify: false
@@ -11616,7 +11616,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
     syns:
     - prati: प्रजावती
       gender: f
-हन्ता दुहिता तनया पुत्री जामाता दुहितुः पतिः । भ्रातृदौहित्रस्तत्सुतो नप्ता स च पौत्र इति कथ्यते ॥:
+दुहिता तनया पुत्री जामाता दुहितुः पतिः । दौहित्रस्तत्सुतो नप्ता स च पौत्रश्च कथ्यते ॥:
   entries:
   - head: दुहिता
     verify: false
@@ -11646,7 +11646,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: भ्रातृदौहित्र
       gender: m
-नवः पूर्वजः = पूर्वेजो ज्येष्ठः कनिष्ठोऽवरजोऽनुजः । प्रातृव्यः स्वातुपुत्रः स्याद् भ्रातृव्यो मातृजस्तथा ॥:
+अग्रजो पूर्वजो ज्येष्ठः कनिष्ठोऽवरजोऽनुजः । भ्रातृव्यो भ्रातृपुत्रः स्याद् भ्रात्रीयोा भ्रातृजस्तथा ॥:
   entries:
   - head: पूर्व
     verify: false
@@ -11678,7 +11678,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: मातृज
       gender: m
-पणत धात्री स्यादुपमाता भगिनी जामिः स्वसा च विज्ञेया । तत्पुत्रः स्वस्तौयो जामेयो भागिनेयः स्यात् ॥:
+धात्री स्यादुपमाता भगिनी जामिः स्वसा च विज्ञेया । तत्पुत्रः स्वस्रायो जामेयो भागिनेयः स्यात् ॥:
   entries:
   - head: धात्री
     verify: false
@@ -11705,7 +11705,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
     - prati: भागिनेय
       gender: m
     qual: तत्पुत्रः
-कश्चित् सोदरा वीर्यवतः समानोदये सोदयायासगर्भाः समाः । सारातृवर्गस्य यदा जाया यतस्ते परस्परम् ॥:
+समानोदर्यसोदर्यसगर्भाः सोदराः समाः । भ्रातृवर्गस्य या जाया यातरस्ताः परस्परम् ॥:
   entries:
   - head: वीर्य
     verify: false
@@ -11739,7 +11739,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: सारातृ
       gender: m
-पलन्तः पार्थ आत्मीयः स्वजनो बान्धवः आप्तो ज्ञातिश्च बान्धवः । सनाभयः सपिण्डाश्च सगोत्राश्च समाः स्मृताः ॥:
+आत्मीयः स्वजनो बन्धुराप्तो ज्ञातिश्च बान्धवः । सनाभयः सपिण्डाश्च सगोत्राश्च समाः स्मृताः ॥:
   entries:
   - head: बान्धव
     verify: false
@@ -11769,7 +11769,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: सम
       gender: m
-तनुस्तनूः संहननं शरीरम् ॥:
+तनुस्तनूः संहननं शरीरं, कलेवरं विग्रहदेहकायाः । अङ्गम् वपुर्वर्ष्म पुरं च पिण्डं, क्षेत्रं च गात्रं च घनश्च मूर्तिः ॥:
   entries:
   - head: तनु
     verify: false
@@ -11790,9 +11790,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
     gender: n
     syns:
     - prati: शरीर
-      gender: n
-शरीरं कलेवरं वपुः अङ्गं पिण्डः । पुरं क्षेत्रं च गात्रं च घनश्च मूर्तिः ॥:
-  entries:
+      gender: n  
   - head: शरीर
     verify: false
     gender: n
@@ -11817,8 +11815,6 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: मूर्ति
       gender: f
-? I apologize, but the text you've provided seems to be severely garbled or corrupted, making it impossible to confidently reconstruct the original Sanskrit sloka. There are not even coherent Devanagari characters present. Could you please re-upload the sloka with clear Devanagari text?
-: entries: []
 हस्तः पादार्चरणः पाणिः शरपञ्चशाखकरदहस्ताः ॥:
   entries:
   - head: हस्त
