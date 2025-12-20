@@ -11815,7 +11815,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: मूर्ति
       gender: f
-हस्तः पादार्चरणः पाणिः शरपञ्चशाखकरदहस्ताः ॥:
+अङ्घ्रिः पादश्चरणः पाणिः शय्यपञ्चशाखकरंहस्ताः। कामाङ्कुशाः कररुहाः पुनर्नवाः पाणिजा नखा नखराः॥:
   entries:
   - head: हस्त
     verify: false
@@ -11835,8 +11835,6 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: अर्चरण
       gender: m
-कामाङ्कुशाः करुहाः पुनर्नखाः पाणिजा नखा नखराः ॥:
-  entries:
   - head: नख
     verify: false
     gender: m
@@ -11853,7 +11851,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: नखर
       gender: m
-ज्ञेयो नप्ता पौत्रश्च पौत्रस्तु भ्रातृजः स्मृतः । अन्धः पाणिः पराय ॥:
+ज्ञेयो नप्ता पौत्रश्च पौत्रस्तु भ्रातृजः स्मृतः । अन्धः पाणिः पराय ॥: This is foot note. No correction done to this.
   entries:
   - head: नप्तृ
     verify: false
@@ -11875,8 +11873,8 @@ SLOKA 501 TO 600 STARTING FROM HERE
     syns:
     - prati: पाणि
       gender: m
-? 'वक्त्र फरण व्रते व्रते संप्रवृत्ते जपष्टः एकपादः ॥ (Note: This appears to be a fragment or partially damaged text, so I''ve attempted to reconstruct it based on the readable portions while maintaining the apparent meter and sense.)'
-: entries:
+? 'वक्त्र फरण व्रते व्रते संप्रवृत्ते जपष्टः एकपादः ॥ After 511 this sloka does not exist. Hence left out without correction)
+entries:
   - head: वक्त्र
     verify: false
     gender: n
@@ -11899,7 +11897,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
     syns:
     - prati: जपष्ट
       gender: m
-पाटः सोपान श्रीपाणिग्रहणे वधूजले शनैः सकृती ज्ञेया । आरोहश्च निम्ब कटी करीरं तिकस्यानम् ॥:
+काञ्चिपदम् कलत्रं जषणं श्रोणी ककुद्मती ज्ञेया । आरोहश्च नितम्भः कटी कटीरं त्रिकस्थानम् ॥:
   entries:
   - head: पाट
     verify: false
@@ -11929,7 +11927,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: f
     - prati: जल
       gender: n
-गुदं पायुरपानं स्यात् कटी रोत्रौ स्फिजौ पृथौ । कन्दरो मम चष्टे जनो जघनकूपकौ ॥:
+गुदः पायुरपानं स्यात्कटिप्रोथौ स्फिजौ पुतौ । कुकुन्दरौ समाचष्टे जनो जघनकूपकौ ॥:
   entries:
   - head: गुद
     verify: false
@@ -11955,7 +11953,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: कूपक
       gender: m
-भरणो तपसो वराङ्गं स्मरमन्दिरम् । सिधनः शेफोऽथ मेधृश्च तुल्ये मेहनशेफसी ॥:
+भगो योनिरूपस्थश्च वराङ्गं स्मरमन्दिरम् । शिशनः शेफोऽथ मेढ्रश्च तुल्ये मेहनशेफसी ॥:
   entries:
   - head: भरण
     verify: false
@@ -11991,7 +11989,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: n
     - prati: मेहन
       gender: n
-जानुः स्यात्पष्ठीवान् प्रसृता जङ्घा च चुटकः गुल्फः । ऊरुः शिखं पिण्डं जठरोदरतुन्दकुक्षिगर्भाः स्युः ॥:
+जानुः स्यादष्ठीवान् प्रसृता जङ्घा च घु टको गुल्फः । ऊरुः सक्थि पिचण्डं जठरोदरतुन्दकुक्षिगर्भाः स्युः ॥:
   entries:
   - head: जानु
     verify: false
@@ -12041,7 +12039,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: m
     - prati: गर्भ
       gender: m
-अङ्गुलयः करशाला कर्णः श्रोत्रं श्रुतिः श्रवः श्रवणम् । गीर्वा धमनिर्मेन्या शिरोधरा कन्धरा गरः कण्ठः ॥:
+अङ्गुलयः करशशाखाः कर्णः श्रोत्रं श्रुतिः श्रवः श्रवणम् । ग्रीवा घमनिर्मन्या शिरोधरा कन्धरा गरः कण्ठः ॥:
   entries:
   - head: अङ्गुलि
     verify: false
@@ -12102,7 +12100,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
     syns:
     - prati: मध्यम
       gender: n
-मुण्डोत्तमाङ्गमस्तकमौलिशिरः शीर्षे मूर्धैकानि स्युः। तुण्डं वदनं वक्त्रं लपनं मुखमास्यमाननं च समम्॥:
+मुण्डोत्तमाङ्गमस्तकमौलिशिरः शीर्षमूर्धकानि स्युः। तुण्डं वदनं वक्त्रं लपनं मुखमास्यमाननं च समम्॥:
   entries:
   - head: मस्तक
     verify: false
@@ -12132,7 +12130,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: n
     - prati: आनन
       gender: n
-दृग्दृष्टिनेत्ररोचनचक्षुनैयनाम्बकेक्षणाक्षीणि । अश्रूणि वाष्परोदननयनजलाश्रुनामानि ॥:
+दृग्दृष्टिनेत्रलोचनचक्षुर्नयनाम्बकेक्षणाक्षीणि । अश्रूणि वाष्परोदननयनजलाश्रास्रुनामानि ॥:
   entries:
   - head: नेत्र
     verify: false
@@ -12170,7 +12168,7 @@ SLOKA 501 TO 600 STARTING FROM HERE
       gender: n
     - prati: अश्रु
       gender: n
-नयनोपान्तमपाङ्गः कनीनिका नयनमध्यतारा च । कपोले भ्रुवोश्च मध्यं स्रुक्व स्यादोष्ठपार्श्वः ॥:
+नयनोपान्तमपाङ्गः कनीनिका नयनमध्यतारा च । कूर्प भ्रुवोश्च मध्यं सृक्व स्यादोष्ठपर्यन्तः ॥:
   entries:
   - head: अपाङ्ग
     verify: false
