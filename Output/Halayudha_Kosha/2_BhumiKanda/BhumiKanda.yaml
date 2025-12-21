@@ -13115,7 +13115,7 @@ entries:
       gender: n
     - prati: दुकूल
       gender: n
-कार्पासं वादरं प्रोक्तं वस्त्रस्यान्तो मतोऽञ्चलः  । अहतं स्यान्नवं वासो जीर्णंमुक्तं पटच्चरम् ॥:
+कार्पासं वादरं प्रोक्तं वस्त्रस्यान्तो मतोऽञ्चलः । अहतं स्यान्नवं वासो जीर्णंमुक्तं पटच्चरम् ॥:
   entries:
   - head: वस्त्र
     verify: false
@@ -13154,7 +13154,7 @@ entries:
       gender: m
     - prati: मुक्त
       gender: m
-धौतमुद्गतनीयं वस्त्रवेष्टिदिशाः सिताः एकार्था आविकौर्दुकर्णायुकम्बलाः ॥:
+धौतमुद्गमनीयं वर्तिर्वस्तिर्दशाः सिचः।एकार्था आविकौरभ्ररल्लकोर्णायुकम्बलाः ॥:
   entries:
   - head: वस्त्र
     verify: false
@@ -13188,13 +13188,9 @@ entries:
       gender: m
     - prati: कम्बल
       gender: m
-पत्रवल्ली तु जागुडं, जागुडं, जागुडं च मन्दरीय च त पटपोटः षट्श्रौतः। पततोर्ण, पूर्णं, पृथुतूर्णं पटच्चरः दशा देशः॥:
+पत्रवल्ली तु जागुडं, जागुडं, जागुडं च मन्दरीय च त पटपोटः षट्श्रौतः। पततोर्ण, पूर्णं, पृथुतूर्णं पटच्चरः दशा देशः॥ FOOT NOTES
   entries: []
-? I apologize, but the text you've provided appears to be severely corrupted and does not resemble a coherent Sanskrit sloka. It looks like a garbled OCR output with random numbers and symbols. Without a clear, readable original text, I cannot provide a corrected version. If you have the original sloka in a more legible form, I would be happy to help you correct it.
-: entries: []
-? 'I apologize, but the text you''ve provided appears to be highly corrupted and unreadable. It seems like a garbled OCR output with mixed scripts and characters. To help me correct the sloka, could you please: 1. Provide the sloka in clear Devanagari script 2. If possible, include the source text or context 3. Specify which work or tradition this sloka is from Without a clear, legible original text, I cannot accurately restore or correct the sloka.'
-: entries: []
-द्वितीयकाण्डम् वारवाणः स्यात् कूरपाशर्च निचोलकः। कञ्चुको वस्त्रमाला माल्यमाख्यातं केशमध्ये तु गमकः॥:
+कञ्चुको वारवाणः स्यात्कूर्पासश्च निचोलकः। स्रग्माला माल्यमाख्यातं केशमध्ये तु गर्भकः॥:
   entries:
   - head: वारवाण
     verify: false
@@ -13232,7 +13228,8 @@ entries:
       gender: n
     - prati: गमक
       gender: m
-? रभ्रष्टकं शिखारम्भि पुरो न्यस्तं ललामकम् । तिर्यग्वक्षसि विक्षिप्तं वैकक्षकमुदाहृतम् ॥ गरीवायां लम्बितं प्राज्ञैः प्रालम्बकमिति स्मृतम् । भराढीडः श्रोत्रसावतसा लिरमि स्रजः ॥ करणपूरेऽपि दृश्यन्ते तथोर्ध्वसावतंसकाः ॥
+प्रभ्रष्टकं शिखालम्भि पुरो न्यस्तं ललामकम् । तिर्यग्वक्षसि विक्षिप्तं वैकक्षकमुदाहृतम् ॥:
+ग्रीवायां लम्बितं प्राज्ञैः प्रालम्बकमिति स्मृतम् । आपीडः शेखरोत्तम्सावतम्साः शिरसि स्रजः । कर्णपूरेऽपि दृश्येते तथोत्तंसावतंसकौ ॥:
 : entries:
   - head: शिखा
     verify: false
@@ -13264,7 +13261,7 @@ entries:
       gender: m
     - prati: उर्ध्वसावतंसक
       gender: m
-जातुयावकलाक्षाऽलक्तकाः समा सिक्थकं मधूच्छिष्टम् । कञ्जलमञ्जनमभिहितमादर्शो दर्पणो मुकुरः ॥:
+जातुयावकलाक्षाऽलक्तकाः समाः सिक्थकं मधूच्छिष्टम् । कञ्जलमञ्जनमभिहितमादर्शो दर्पणो मुकुरः ॥:
   entries:
   - head: दर्पण
     verify: false
