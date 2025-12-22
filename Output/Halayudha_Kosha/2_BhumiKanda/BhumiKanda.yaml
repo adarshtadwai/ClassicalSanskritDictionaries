@@ -13660,41 +13660,8 @@ entries:
       gender: m
     - prati: आचक
       gender: m
-? I apologize, but the text you've provided appears to be extremely garbled and unreadable, with significant OCR errors and mixed scripts. Without a clear, legible original text, I cannot confidently reconstruct a Sanskrit sloka. Could you please provide a clearer version of the text?
-: entries: []
-वने पाठ पठन्नित्यं शास्त्रं विद्याविशारदः । ग्रन्थं निर्मापयेद्यस्तु स नरः शास्त्रपारगः ॥:
-  entries:
-  - head: नर
-    verify: false
-    gender: m
-    syns:
-    - prati: नर
-      gender: m
-  - head: शास्त्र
-    verify: false
-    gender: n
-    syns:
-    - prati: शास्त्र
-      gender: n
-  - head: विद्या
-    verify: false
-    gender: f
-    syns:
-    - prati: विद्या
-      gender: f
-  - head: वन
-    verify: false
-    gender: n
-    syns:
-    - prati: वन
-      gender: n
-  - head: ग्रन्थ
-    verify: false
-    gender: m
-    syns:
-    - prati: ग्रन्थ
-      gender: m
-अपमित्यकमुद्धार ऋणं स्यात्पर्युदेहनम् । वृद्धिः कलान्तरं परोक्तं कुसीदं वृद्धिजीवनम् ॥:
+THERE IS NO CONTINUITY AFTER 571. HENCE, ORIGINAL LINES 13664 TO 13697 DELETED. ALSO THESE VERSES SEEMED OUT OF PLACE.
+अपमित्यकमुद्धार ऋणं स्यात्पर्युदज्जनम् । वृद्धिः कलान्तरं प्रोक्तं कुसीदं वृद्धिजीवनम् ॥:
   entries:
   - head: ऋण
     verify: false
@@ -13716,7 +13683,7 @@ entries:
       gender: n
     - prati: वृद्धिजीवन
       gender: n
-? परिवर्तिविनिमयो वेश्मेयराज निगदते । भरक्रयः कलापिकं प्रोक्तं भाटको विक्रयः स्मृतः । क्षेत्राजीवः कृषिकः कृषीवलः कषकः कुटुम्बी च । धान्यं प्रोक्तं वप्रं क्षेत्रं च कंदारम् ॥५७३॥ योक्त्रं तु रदिमराबन्धः शम्या च युगकीलकः । कोशो निगदितो लोष्टको लोष्टः षोष्टभेदनम् । शम्बाकृतं द्विसीतं स्यात् सीता च कुदालं खवित्रम् । प्रतोदः प्राजनं तोलनं दातमिति स्मृतम् ॥५७४॥ खरेवाटी भवेन्मेठी खलधान्यं खलं स्मृतम् । बुशः कडङ्करः प्रोक्तो धान्यकं च किलाङ्गलपद्धतिः ॥५७५॥
+परिवृत्तिर्विनिमयो वैमेयश्च निगद्यते।प्रक्रयः क्लृप्तिकं प्रोक्तं भाटकोऽवक्रयः स्मृतः ॥:
 : entries:
   - head: विक्रय
     verify: false
@@ -13728,6 +13695,8 @@ entries:
       gender: m
     - prati: भरक्रय
       gender: m
+क्षेत्राजीवः कृषिकः कृषीवलः कर्षकः कुटुम्बी च । सीत्यम् सस्यं प्रोक्तं वप्रं क्षेत्रं च कोदारम् ॥:
+: entries:    
   - head: कृषक
     verify: false
     gender: m
@@ -13750,6 +13719,8 @@ entries:
       gender: n
     - prati: कंदार
       gender: n
+हलं स्याल्लाङ्गलं सीरः फालः कुशिक उच्यते । योक्त्रं तु रश्मिराबन्धः शम्या च युगकीलकः ॥:
+: entries:  
   - head: युगकीलक
     verify: false
     gender: m
@@ -13760,6 +13731,8 @@ entries:
       gender: m
     - prati: शम्या
       gender: f
+कथितो लोष्टको लोष्टः कोटिशम् लोष्टभेदनम् । शम्बाकृतं द्विसीत्यं स्यात्सीता लाङ्गलपद्धतिः ॥:  
+: entries:
   - head: कुदाल
     verify: false
     gender: n
@@ -13768,6 +13741,18 @@ entries:
       gender: f
     - prati: खवित्र
       gender: n
+ गोदारणं च कुद्दालं लवित्रं दात्रमुच्यते ।प्रतोदः प्राजनं तोत्रं लूनं दातमिति स्मृतम् ॥:
+  entries:
+  - head: दातृ
+    verify: false
+    gender: m
+    syns:
+    - prati: दातृ
+      gender: m
+    - prati: गोदारण
+      gender: m
+खलेवाली भवेन्मेठिः खलधान्यं खलं स्मृतम् । बुशः कडङ्गरः प्रोक्तः कणः स्यात्क्षुद्रतण्डुलः ॥:
+entries:
   - head: धान्य
     verify: false
     gender: n
@@ -13780,19 +13765,7 @@ entries:
       gender: m
     - prati: कडङ्कर
       gender: m
-गोदारणं दातृमुच्यते ॥:
-  entries:
-  - head: दातृ
-    verify: false
-    gender: m
-    syns:
-    - prati: दातृ
-      gender: m
-    - prati: गोदारण
-      gender: m
-कणः स्यात्क्षुद्रतण्डुलः ॥:
-  entries:
-  - head: कण
+   - head: कण
     verify: false
     gender: m
     syns:
@@ -13800,8 +13773,8 @@ entries:
       gender: m
     - prati: क्षुद्रतण्डुल
       gender: m
-कणिका धान्यशीर्षकम् । नालं काण्डं क्षुपो गुच्छः ब्रीहिः स्तम्बकरः स्मृतः ॥:
-  entries:
+धान्यशूकं च किशारुः कणिशं धान्यशीर्षकम् । नालं काण्डं क्षुपो गुच्छो व्रीहिः स्तम्बकरिः स्मृतः ॥:
+entries:
   - head: धान्यशीर्षक
     verify: false
     gender: n
@@ -13826,7 +13799,7 @@ entries:
     syns:
     - prati: स्तम्बक
       gender: m
-रक्तशालिमेहाशालिः कलमाश्चेति शाक्यकः । उदारः कथितः प्राज्ञैः कोद्रवः कोरटदशकः ॥:
+रक्तशालिर्महाशालिः कलमाश्चेति शालयः । उद्दालः कथितः प्राज्ञैः कोद्रवः कोरदूशकः ॥:
   entries:
   - head: शालि
     verify: false
@@ -13842,7 +13815,7 @@ entries:
     syns:
     - prati: कोरट
       gender: m
-कृप्तकं तथा करवृक्षः कुटुम्बी | सत्यं सैन्यं सीरं क्षीरं कीलिका किलिकम् | कोटीरं कौटि काटीशं दात्र ॥:
+Foot Note कृप्तकं तथा करवृक्षः कुटुम्बी | सत्यं सैन्यं सीरं क्षीरं कीलिका किलिकम् | कोटीरं कौटि काटीशं दात्र ॥:
   entries:
   - head: वृक्ष
     verify: false
@@ -13894,7 +13867,7 @@ entries:
     syns:
     - prati: काटीश
       gender: m
-दानं मेढिः, मेटि, मेथि, मेषि; गुच्छो, गुष्टो, गुष्टः ॥:
+Foot Note दानं मेढिः, मेटि, मेथि, मेषि; गुच्छो, गुष्टो, गुष्टः ॥:
   entries:
   - head: दान
     verify: false
@@ -13916,9 +13889,7 @@ entries:
       gender: m
     - prati: गुष्टो
       gender: m
-? I apologize, but the text you've provided does not appear to be a valid Sanskrit sloka. It seems to be a garbled mix of numbers, punctuation, and partial text that does not form a coherent Sanskrit verse. Without a clear, recognizable Sanskrit verse, I cannot provide a corrected version. If you have a complete Sanskrit sloka, I would be happy to help correct any OCR errors.
-: entries: []
-मङ्गीको मसूरः सवतः सपः स्मृतः । आसुरो सर्षपश्चेति कथ्यते राजसर्षपः ॥:
+मङ्गल्यको मसूरः स्यात्सिद्धार्थः सर्षपः स्मृतः । आसुरी राजिका चेति कथ्यते राजसर्षपः ॥:
   entries:
   - head: सर्षप
     verify: false
@@ -13937,7 +13908,7 @@ entries:
     - prati: सर्षप
       gender: m
     qual: राजसर्षप (royal mustard)
-षः शक्ति कणिरवसो भुजंगमः कुमारः। कलायः खण्डिको ज्ञेयः सातीनां च मनीषिभिः॥:
+प्रियङ्गुः कथ्यते कङ्गुरतसी स्यदुमा क्षुमा ।कलायः खण्डिको ज्ञेयः सातीनश्च मनीषिभिः॥:
   entries:
   - head: शक्ति
     verify: false
@@ -13962,7 +13933,7 @@ entries:
     - prati: खण्डिक
       gender: m
     qual: 'ज्ञेय: सातीनां च मनीषिभिः'
-जिलः कथ्यते सद्धिर्नरपरभवस्तिलः ॥:
+जिलः कथ्यते सद्धिर्नरपरभवस्तिलः ॥: BEGIN HERE
   entries:
   - head: तिल
     verify: false
