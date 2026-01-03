@@ -14153,11 +14153,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
     syns:
     - prati: सौचिक
       gender: m
-? I apologize, but the text you've provided appears to be highly corrupted OCR output that doesn't resemble a coherent Sanskrit sloka. There are multiple garbled characters, numbers, and seemingly random symbols mixed in. Without a clearer original text, I cannot accurately reconstruct the sloka. Could you please provide a more legible version of the Sanskrit text?
-: entries: []
-? I apologize, but the text you've provided appears to be a garbled mix of Sanskrit, numbers, and possibly corrupted OCR output. It does not resemble a recognizable Sanskrit sloka. Without a clear, readable Sanskrit text, I cannot provide a correction. If you have the original Sanskrit text in a legible form, I would be happy to help you correct any OCR errors.
-: entries: []
-द्वितीयकं लेखकः पण्डितः स्यादरदगाजीवस्तु चित्रवत् । कर्म रप्यादिकं सर्वं तुस्तकं स्मृतं बुधैः ॥:
+लेपकः पलगण्डः स्याद्रङ्गाजीवस्तु चित्रकृत् । कर्म लेप्यादिकं सर्वं तुस्तकर्म स्मृतं बुधैः ॥:
   entries:
   - head: लेखक
     verify: false
@@ -14180,7 +14176,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
     - prati: अरद
       gender: m
     qual: चित्रवत्
-शैलाली लेलिन् सी देवरवारमः शोध्वी च । जायाजीवो मत्तो नरस्तया स्यन्नरी रुतम् ॥:
+शैलाली शैलूषः कुशीलवश्चारणः क्रुशाश्वी च । जायाजीवो भरतो नटस्तथा स्यान्नटी क्षुद्रा ॥:
   entries:
   - head: नर
     verify: false
@@ -14208,7 +14204,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: n
     - prati: स्यन्न
       gender: n
-शिल्पिनः कारवः प्रोक्ताः कृतिश्च मनीषिभिः । नर्मदेयकः स्त्रजकः कल्पपारस्तु शौनकः ॥:
+शिल्पिनः कारवः प्रोक्ताः प्रकृतिश्च मनीषिभिः । निर्णेजकः स्याद्रजकः कल्पपालस्तु शौण्डिकः॥:
   entries:
   - head: शिल्पिन्
     verify: false
@@ -14244,7 +14240,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: m
     - prati: कल्पपारस्
       gender: m
-कैश्चिद् धीवसे दोषो मत्स्यबन्धी तु जालिकः । आनायः कथ्यते जालं तथा गवे ॥:
+कैवर्तो धीवरो दासो मत्स्यबन्धी तु जालिकः । आनायः कथ्यते जालं कुवेणी मत्स्यबन्धनी ॥:
   entries:
   - head: दोष
     verify: false
@@ -14268,7 +14264,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: m
     - prati: जालिक
       gender: m
-वणिक् सौनिकः स्यात् कृतधर्मा मानवोऽपि वा ॥:
+वैतंसिकः सौनिकः स्यात्कौटिको मांसविक्त्रयी । सूना स्याद् घातनस्थानं कृपाणीली च कर्तरी ॥:
   entries:
   - head: वणिक्
     verify: false
@@ -14288,8 +14284,6 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
     - prati: कृतधर्मा
       gender: m
     qual: धर्मशील, कर्तव्यनिष्ठ
-स्यात् घातनस्थानं कृपाणी लीलाकटारी ॥:
-  entries:
   - head: घातन
     verify: false
     gender: n
@@ -14314,7 +14308,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: f
     - prati: लीला
       gender: f
-चर्मकृत्पादुकाकारो नद्धी वद्ध च कथ्यते । मृगयुर्न्धको व्याधो रूपेवागुरिकः स्मृतः ॥:
+चर्मकृत्पादुकाकारो नद्ध्री वद्ध्री च कथ्यते । मृगयुर्लुब्धको व्याधो बुधैर्वागुरिकः स्मृतः ॥:
   entries:
   - head: व्याध
     verify: false
@@ -14352,7 +14346,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: m
     - prati: रूप
       gender: n
-शुल्का रजसा वरिला स्मृता । पाशः स्याद्बन्धनन्थिवागुरा मृगजालिका ॥:
+शुल्वा रज्जुर्वराटश्च वटस्तन्त्रीर्गुणः स्मृतः । पाशः स्याद्बन्धनग्रन्थिर्वागुरा मृगजालिका ॥:
   entries:
   - head: पाश
     verify: false
@@ -14374,7 +14368,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: m
     - prati: रजस
       gender: n
-अन्तावसायी चण्डालो निषादश्च जनङ्गमः । श्वपचः पक्वहाराश्च मातङ्गः प्लवकः स्मृतः ॥:
+अन्तावसायी चण्डालो निषादश्च जनङ्गमः । श्वपचः पक्वशश्चैव मातङ्गः प्लवकः स्मृतः ॥:
   entries:
   - head: चण्डाल
     verify: false
@@ -14397,7 +14391,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
     - prati: प्लवक
       gender: m
     qual: terms for marginalized or lower social groups
-किराताः शवराः निष्ट्याः पुलिन्दा नाहला भटाः । माल्लाः म्लेच्छादयो भिल्लाः कथ्यन्ते ह्यन्तजातयः ॥:
+किराताः शबरा निष्ट्याः पुलिन्दा नाहला भटाः । माला म्लेच्छादयो भिल्लाः कथ्यन्ते ह्यन्तजातयः ॥:
   entries:
   - head: जाति
     verify: false
@@ -14422,7 +14416,7 @@ Foot Note दानं मेढिः, मेटि, मेथि, मेषि
       gender: m
     - prati: भिल्ल
       gender: m
-छदो रोगो रुक् व्याधिराकुलं गदो मान्दम् अपाटवम् । आमः आमयो आतङ्कः उपतापो रुजा स्मृता ॥:
+रोगो रुक् व्याधिराकल्यं गदो मान्द्यमपाटवम् । आम आमय आतङ्कः उपतापो रुजा स्मृता ॥:
   entries:
   - head: रोग
     verify: false
